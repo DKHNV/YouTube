@@ -1,5 +1,5 @@
 #Created by DKHNV 
-#Gen3 - 22.10.2024
+#Gen4 - 14.11.2024
 /ip firewall address-list
 
 add list=YouTube address=	13.248.169.48	comment=YouTube
