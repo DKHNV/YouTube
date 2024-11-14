@@ -1,8 +1,7 @@
 #Created by DKHNV 
 #Gen3 - 22.10.2024
 /ip firewall address-list
-Команда и выбор листа	Адрес	Комментарий
-/ip firewall address-list		
+
 add list=YouTube address=	13.248.169.48	comment=YouTube
 add list=YouTube address=	64.233.161.100	comment=YouTube
 add list=YouTube address=	64.233.161.101	comment=YouTube
