@@ -286,13 +286,6 @@ add list=YouTube address=	74.125.206.138	comment=YouTube
 add list=YouTube address=	74.125.206.139	comment=YouTube
 add list=YouTube address=	75.102.57.122	comment=YouTube
 add list=YouTube address=	76.223.54.146	comment=YouTube
-add list=YouTube address=	104.21.16.1	comment=YouTube
-add list=YouTube address=	104.21.32.1	comment=YouTube
-add list=YouTube address=	104.21.48.1	comment=YouTube
-add list=YouTube address=	104.21.64.1	comment=YouTube
-add list=YouTube address=	104.21.80.1	comment=YouTube
-add list=YouTube address=	104.21.96.1	comment=YouTube
-add list=YouTube address=	104.21.112.1	comment=YouTube
 add list=YouTube address=	108.177.9.94	comment=YouTube
 add list=YouTube address=	108.177.11.94	comment=YouTube
 add list=YouTube address=	108.177.12.94	comment=YouTube
@@ -1642,6 +1635,7 @@ add list=YouTube address=	173.194.207.102	comment=YouTube
 add list=YouTube address=	173.194.207.113	comment=YouTube
 add list=YouTube address=	173.194.207.138	comment=YouTube
 add list=YouTube address=	173.194.207.139	comment=YouTube
+add list=YouTube address=	173.194.208.94	comment=YouTube
 add list=YouTube address=	173.194.209.94	comment=YouTube
 add list=YouTube address=	173.194.210.94	comment=YouTube
 add list=YouTube address=	173.194.212.94	comment=YouTube
@@ -1691,8 +1685,6 @@ add list=YouTube address=	173.194.222.129	comment=YouTube
 add list=YouTube address=	173.194.222.134	comment=YouTube
 add list=YouTube address=	173.194.222.138	comment=YouTube
 add list=YouTube address=	173.194.222.139	comment=YouTube
-add list=YouTube address=	188.114.96.1	comment=YouTube
-add list=YouTube address=	188.114.97.1	comment=YouTube
 add list=YouTube address=	192.178.24.131	comment=YouTube
 add list=YouTube address=	192.178.24.142	comment=YouTube
 add list=YouTube address=	192.178.24.163	comment=YouTube
