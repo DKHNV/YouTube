@@ -5,9 +5,9 @@
 
 ## Содержимое репозитория
 
-- [YouTube_RouterOS.rsc](YouTube_RouterOS.rsc) — файл с командами для роутеров MikroTik, позволяющий обновлять `address list` сервиса
-- [YouTube_CIDR.txt](YouTube_CIDR.txt) — список IP-адресов и CIDR-диапазонов сервиса
-- [YouTube_DNS](YouTube_DNS) — список доменных имён сервиса
+- [YouTube_RouterOS.rsc](YouTube_RouterOS.rsc) - файл с командами для роутеров MikroTik, позволяющий обновлять `address list` сервиса
+- [YouTube_CIDR.txt](YouTube_CIDR.txt) - список IP-адресов и CIDR-диапазонов сервиса
+- [YouTube_DNS](YouTube_DNS) - список доменных имён сервиса
 
 ## Назначение
 
