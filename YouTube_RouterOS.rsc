@@ -1,5 +1,5 @@
 #Created by DKHNV		
-#Gen12 12.04.2026	
+#Gen2 12.04.2026	
 
 /ip firewall address-list
 
