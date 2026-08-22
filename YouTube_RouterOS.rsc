@@ -1,5 +1,3 @@
-#Created by DKHNV
-#Gen4 21.08.2026
 /ip firewall address-list
 
 add list=youtube address=74.125.131.0/24 comment=youtube
