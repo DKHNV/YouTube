@@ -1,6 +1,5 @@
 /ip firewall address-list
 
-add list=youtube address=1.1.1.0/24 comment=youtube
 add list=youtube address=74.125.131.0/24 comment=youtube
 add list=youtube address=108.177.14.0/24 comment=youtube
 add list=youtube address=142.251.1.0/24 comment=youtube
