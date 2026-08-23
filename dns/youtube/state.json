@@ -2,18 +2,18 @@
   "hosts": {
     "admin-green-qa.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin-green-qa.youtube.com",
       "ipv4": [],
-      "last_check": "2026-08-23T11:32:19Z",
-      "last_failure": "2026-08-23T11:32:19Z",
-      "last_negative": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
+      "last_failure": "2026-08-23T17:32:14Z",
+      "last_negative": "2026-08-23T17:32:14Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-08-21T08:21:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -26,8 +26,9 @@
           "status": "NXDOMAIN"
         },
         "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -38,18 +39,18 @@
     },
     "admin-py3.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin-py3.youtube.com",
       "ipv4": [],
-      "last_check": "2026-08-23T11:32:19Z",
-      "last_failure": "2026-08-23T11:32:19Z",
-      "last_negative": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
+      "last_failure": "2026-08-23T17:32:14Z",
+      "last_negative": "2026-08-23T17:32:14Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-08-21T08:21:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -62,8 +63,9 @@
           "status": "NXDOMAIN"
         },
         "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -74,18 +76,18 @@
     },
     "admin-release-qa.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin-release-qa.youtube.com",
       "ipv4": [],
-      "last_check": "2026-08-23T11:32:19Z",
-      "last_failure": "2026-08-23T11:32:19Z",
-      "last_negative": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
+      "last_failure": "2026-08-23T17:32:14Z",
+      "last_negative": "2026-08-23T17:32:14Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-08-21T08:21:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -98,8 +100,9 @@
           "status": "NXDOMAIN"
         },
         "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -116,18 +119,12 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin.youtube.com",
       "ipv4": [
-        "142.250.113.100",
-        "142.250.113.101",
-        "142.250.113.102",
-        "142.250.113.113",
-        "142.250.113.138",
-        "142.250.113.139",
-        "142.250.115.100",
-        "142.250.115.101",
-        "142.250.115.102",
-        "142.250.115.113",
-        "142.250.115.138",
-        "142.250.115.139",
+        "142.251.108.100",
+        "142.251.108.101",
+        "142.251.108.102",
+        "142.251.108.113",
+        "142.251.108.138",
+        "142.251.108.139",
         "142.251.186.100",
         "142.251.186.101",
         "142.251.186.102",
@@ -135,27 +132,15 @@
         "142.251.186.138",
         "142.251.186.139"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "www3.l.google.com",
-          "ipv4": [
-            "142.250.113.100",
-            "142.250.113.101",
-            "142.250.113.102",
-            "142.250.113.113",
-            "142.250.113.138",
-            "142.250.113.139"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
           "canonical_name": "www3.l.google.com",
           "ipv4": [
             "142.251.186.100",
@@ -167,17 +152,22 @@
           ],
           "status": "OK"
         },
-        "9.9.9.9": {
+        "8.8.8.8": {
           "canonical_name": "www3.l.google.com",
           "ipv4": [
-            "142.250.115.100",
-            "142.250.115.101",
-            "142.250.115.102",
-            "142.250.115.113",
-            "142.250.115.138",
-            "142.250.115.139"
+            "142.251.108.100",
+            "142.251.108.101",
+            "142.251.108.102",
+            "142.251.108.113",
+            "142.251.108.138",
+            "142.251.108.139"
           ],
           "status": "OK"
+        },
+        "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -194,14 +184,13 @@
       "first_seen": "2026-08-21T08:17:33Z",
       "hostname": "ai.ytimg.com",
       "ipv4": [
-        "142.250.138.129",
-        "142.251.116.129",
-        "192.178.220.129"
+        "142.250.26.129",
+        "142.250.141.129"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -209,23 +198,21 @@
         "1.1.1.1": {
           "canonical_name": "ai.ytimg.com",
           "ipv4": [
-            "142.251.116.129"
+            "142.250.26.129"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "ai.ytimg.com",
           "ipv4": [
-            "142.250.138.129"
+            "142.250.141.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "ai.ytimg.com",
-          "ipv4": [
-            "192.178.220.129"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -242,58 +229,28 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "creatoracademy.youtube.com",
       "ipv4": [
-        "142.250.114.100",
-        "142.250.114.101",
-        "142.250.114.102",
-        "142.250.114.113",
-        "142.250.114.138",
-        "142.250.114.139",
-        "142.251.116.100",
-        "142.251.116.101",
-        "142.251.116.102",
-        "142.251.116.113",
-        "142.251.116.138",
-        "142.251.116.139",
         "142.251.186.100",
         "142.251.186.101",
         "142.251.186.102",
         "142.251.186.113",
         "142.251.186.138",
-        "142.251.186.139"
+        "142.251.186.139",
+        "192.178.142.100",
+        "192.178.142.101",
+        "192.178.142.102",
+        "192.178.142.113",
+        "192.178.142.138",
+        "192.178.142.139"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "creatoracademy.youtube.com",
-          "ipv4": [
-            "142.251.116.100",
-            "142.251.116.101",
-            "142.251.116.102",
-            "142.251.116.113",
-            "142.251.116.138",
-            "142.251.116.139"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
-          "canonical_name": "creatoracademy.youtube.com",
-          "ipv4": [
-            "142.250.114.100",
-            "142.250.114.101",
-            "142.250.114.102",
-            "142.250.114.113",
-            "142.250.114.138",
-            "142.250.114.139"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
           "canonical_name": "creatoracademy.youtube.com",
           "ipv4": [
             "142.251.186.100",
@@ -304,6 +261,23 @@
             "142.251.186.139"
           ],
           "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "creatoracademy.youtube.com",
+          "ipv4": [
+            "192.178.142.100",
+            "192.178.142.101",
+            "192.178.142.102",
+            "192.178.142.113",
+            "192.178.142.138",
+            "192.178.142.139"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -325,17 +299,20 @@
         "142.250.114.119",
         "142.250.115.119",
         "142.250.138.119",
+        "142.251.108.119",
         "142.251.116.119",
+        "142.251.121.119",
         "142.251.186.119",
         "172.217.72.119",
         "172.253.135.119",
         "173.194.208.119",
+        "192.178.142.119",
         "192.178.220.119"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -350,6 +327,7 @@
             "142.250.138.119",
             "142.251.116.119",
             "142.251.186.119",
+            "172.217.72.119",
             "172.253.135.119",
             "173.194.208.119",
             "192.178.220.119"
@@ -359,32 +337,16 @@
         "8.8.8.8": {
           "canonical_name": "i.ytimg.com",
           "ipv4": [
-            "142.250.113.119",
-            "142.250.114.119",
-            "142.250.115.119",
-            "142.251.116.119",
-            "142.251.186.119",
-            "172.217.72.119",
-            "172.253.135.119",
-            "173.194.208.119",
-            "192.178.220.119"
+            "142.251.108.119",
+            "142.251.121.119",
+            "192.178.142.119"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "i.ytimg.com",
-          "ipv4": [
-            "142.250.26.119",
-            "142.250.113.119",
-            "142.250.114.119",
-            "142.250.115.119",
-            "142.251.116.119",
-            "142.251.186.119",
-            "172.253.135.119",
-            "173.194.208.119",
-            "192.178.220.119"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -405,10 +367,10 @@
         "216.239.36.60",
         "216.239.38.60"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -430,12 +392,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "i2.ytimg.com",
-          "ipv4": [
-            "216.239.36.60",
-            "216.239.38.60"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.202 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -455,10 +414,10 @@
         "216.239.36.64",
         "216.239.38.64"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -480,12 +439,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "i3.ytimg.com",
-          "ipv4": [
-            "216.239.36.64",
-            "216.239.38.64"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -502,29 +458,23 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "m.youtube.com",
       "ipv4": [
-        "142.250.113.100",
-        "142.250.113.101",
-        "142.250.113.102",
-        "142.250.113.113",
-        "142.250.113.138",
-        "142.250.113.139",
-        "142.250.114.100",
-        "142.250.114.101",
-        "142.250.114.102",
-        "142.250.114.113",
-        "142.250.114.138",
-        "142.250.114.139",
-        "142.251.186.100",
-        "142.251.186.101",
-        "142.251.186.102",
-        "142.251.186.113",
-        "142.251.186.138",
-        "142.251.186.139"
+        "172.217.72.100",
+        "172.217.72.101",
+        "172.217.72.102",
+        "172.217.72.113",
+        "172.217.72.138",
+        "172.217.72.139",
+        "192.178.142.100",
+        "192.178.142.101",
+        "192.178.142.102",
+        "192.178.142.113",
+        "192.178.142.138",
+        "192.178.142.139"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -532,38 +482,31 @@
         "1.1.1.1": {
           "canonical_name": "m.youtube.com",
           "ipv4": [
-            "142.251.186.100",
-            "142.251.186.101",
-            "142.251.186.102",
-            "142.251.186.113",
-            "142.251.186.138",
-            "142.251.186.139"
+            "172.217.72.100",
+            "172.217.72.101",
+            "172.217.72.102",
+            "172.217.72.113",
+            "172.217.72.138",
+            "172.217.72.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "m.youtube.com",
           "ipv4": [
-            "142.250.114.100",
-            "142.250.114.101",
-            "142.250.114.102",
-            "142.250.114.113",
-            "142.250.114.138",
-            "142.250.114.139"
+            "192.178.142.100",
+            "192.178.142.101",
+            "192.178.142.102",
+            "192.178.142.113",
+            "192.178.142.138",
+            "192.178.142.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "m.youtube.com",
-          "ipv4": [
-            "142.250.113.100",
-            "142.250.113.101",
-            "142.250.113.102",
-            "142.250.113.113",
-            "142.250.113.138",
-            "142.250.113.139"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -574,18 +517,18 @@
     },
     "misc-sni.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "misc-sni.youtube.com",
       "ipv4": [],
-      "last_check": "2026-08-23T11:32:19Z",
-      "last_failure": "2026-08-23T11:32:19Z",
-      "last_negative": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
+      "last_failure": "2026-08-23T17:32:14Z",
+      "last_negative": "2026-08-23T17:32:14Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-08-21T08:21:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -598,8 +541,9 @@
           "status": "NXDOMAIN"
         },
         "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -616,9 +560,6 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "music.youtube.com",
       "ipv4": [
-        "142.250.26.91",
-        "142.250.26.93",
-        "142.250.26.190",
         "142.250.113.91",
         "142.250.113.93",
         "142.250.113.136",
@@ -627,41 +568,31 @@
         "142.250.114.93",
         "142.250.114.136",
         "142.250.114.190",
-        "142.250.115.91",
         "142.250.115.93",
         "142.250.115.136",
         "142.250.115.190",
-        "142.250.138.91",
-        "142.250.138.136",
+        "142.251.108.91",
+        "142.251.108.93",
+        "142.251.108.136",
+        "142.251.108.190",
         "142.251.116.91",
         "142.251.116.93",
         "142.251.116.136",
         "142.251.116.190",
-        "142.251.186.91",
-        "142.251.186.93",
-        "142.251.186.136",
-        "142.251.186.190",
-        "172.217.72.91",
-        "172.217.72.93",
-        "172.217.72.136",
-        "172.217.72.190",
-        "172.253.135.91",
+        "142.251.121.91",
+        "142.251.121.93",
+        "142.251.121.136",
+        "142.251.121.190",
         "172.253.135.93",
-        "172.253.135.136",
-        "172.253.135.190",
-        "173.194.208.91",
-        "173.194.208.93",
-        "173.194.208.136",
-        "173.194.208.190",
-        "192.178.220.91",
-        "192.178.220.93",
-        "192.178.220.136",
-        "192.178.220.190"
+        "192.178.142.91",
+        "192.178.142.93",
+        "192.178.142.136",
+        "192.178.142.190"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -669,68 +600,47 @@
         "1.1.1.1": {
           "canonical_name": "youtube-ui.l.google.com",
           "ipv4": [
-            "142.250.26.91",
-            "142.250.26.93",
-            "142.250.26.190",
-            "142.251.186.91",
-            "142.251.186.93",
-            "142.251.186.136",
-            "142.251.186.190",
-            "172.217.72.136",
-            "172.217.72.190",
-            "173.194.208.93",
-            "173.194.208.136",
-            "173.194.208.190",
-            "192.178.220.91",
-            "192.178.220.93",
-            "192.178.220.136",
-            "192.178.220.190"
+            "142.250.113.91",
+            "142.250.113.93",
+            "142.250.113.136",
+            "142.250.113.190",
+            "142.250.114.91",
+            "142.250.114.93",
+            "142.250.114.136",
+            "142.250.114.190",
+            "142.250.115.93",
+            "142.250.115.136",
+            "142.250.115.190",
+            "142.251.116.91",
+            "142.251.116.93",
+            "142.251.116.136",
+            "142.251.116.190",
+            "172.253.135.93"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "youtube-ui.l.google.com",
           "ipv4": [
-            "142.250.114.91",
-            "142.250.114.93",
-            "142.250.114.136",
-            "142.250.114.190",
-            "142.250.115.91",
-            "142.250.115.93",
-            "142.250.115.136",
-            "142.250.115.190",
-            "172.217.72.91",
-            "172.217.72.93",
-            "172.217.72.136",
-            "172.217.72.190",
-            "173.194.208.91",
-            "173.194.208.93",
-            "173.194.208.136",
-            "173.194.208.190"
+            "142.251.108.91",
+            "142.251.108.93",
+            "142.251.108.136",
+            "142.251.108.190",
+            "142.251.121.91",
+            "142.251.121.93",
+            "142.251.121.136",
+            "142.251.121.190",
+            "192.178.142.91",
+            "192.178.142.93",
+            "192.178.142.136",
+            "192.178.142.190"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "youtube-ui.l.google.com",
-          "ipv4": [
-            "142.250.113.91",
-            "142.250.113.93",
-            "142.250.113.136",
-            "142.250.113.190",
-            "142.250.114.190",
-            "142.250.138.91",
-            "142.250.138.136",
-            "142.251.116.91",
-            "142.251.116.93",
-            "142.251.116.136",
-            "142.251.116.190",
-            "172.253.135.91",
-            "172.253.135.93",
-            "172.253.135.136",
-            "172.253.135.190",
-            "192.178.220.93"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -747,29 +657,23 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "nflst.youtube.com",
       "ipv4": [
-        "142.250.26.100",
-        "142.250.26.101",
-        "142.250.26.102",
-        "142.250.26.113",
-        "142.250.26.138",
-        "142.250.26.139",
-        "142.250.138.100",
-        "142.250.138.101",
-        "142.250.138.102",
-        "142.250.138.113",
-        "142.250.138.138",
-        "142.250.138.139",
-        "142.251.186.100",
-        "142.251.186.101",
-        "142.251.186.102",
-        "142.251.186.113",
-        "142.251.186.138",
-        "142.251.186.139"
+        "142.251.116.100",
+        "142.251.116.101",
+        "142.251.116.102",
+        "142.251.116.113",
+        "142.251.116.138",
+        "142.251.116.139",
+        "192.178.142.100",
+        "192.178.142.101",
+        "192.178.142.102",
+        "192.178.142.113",
+        "192.178.142.138",
+        "192.178.142.139"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -777,38 +681,31 @@
         "1.1.1.1": {
           "canonical_name": "nflst.youtube.com",
           "ipv4": [
-            "142.251.186.100",
-            "142.251.186.101",
-            "142.251.186.102",
-            "142.251.186.113",
-            "142.251.186.138",
-            "142.251.186.139"
+            "142.251.116.100",
+            "142.251.116.101",
+            "142.251.116.102",
+            "142.251.116.113",
+            "142.251.116.138",
+            "142.251.116.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "nflst.youtube.com",
           "ipv4": [
-            "142.250.138.100",
-            "142.250.138.101",
-            "142.250.138.102",
-            "142.250.138.113",
-            "142.250.138.138",
-            "142.250.138.139"
+            "192.178.142.100",
+            "192.178.142.101",
+            "192.178.142.102",
+            "192.178.142.113",
+            "192.178.142.138",
+            "192.178.142.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "nflst.youtube.com",
-          "ipv4": [
-            "142.250.26.100",
-            "142.250.26.101",
-            "142.250.26.102",
-            "142.250.26.113",
-            "142.250.26.138",
-            "142.250.26.139"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.202 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -825,13 +722,13 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "payments.youtube.com",
       "ipv4": [
-        "172.253.135.92",
-        "173.194.208.92"
+        "142.250.141.92",
+        "192.178.220.92"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -839,23 +736,21 @@
         "1.1.1.1": {
           "canonical_name": "payments.youtube.com",
           "ipv4": [
-            "172.253.135.92"
+            "192.178.220.92"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "payments.youtube.com",
           "ipv4": [
-            "173.194.208.92"
+            "142.250.141.92"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "payments.youtube.com",
-          "ipv4": [
-            "172.253.135.92"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -872,14 +767,13 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "prefmgr-dev.youtube.com",
       "ipv4": [
-        "142.250.138.129",
-        "142.251.116.129",
-        "172.253.135.129"
+        "142.250.101.129",
+        "192.178.220.129"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -887,23 +781,21 @@
         "1.1.1.1": {
           "canonical_name": "prefmgr-dev.youtube.com",
           "ipv4": [
-            "142.251.116.129"
+            "192.178.220.129"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "prefmgr-dev.youtube.com",
           "ipv4": [
-            "142.250.138.129"
+            "142.250.101.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "prefmgr-dev.youtube.com",
-          "ipv4": [
-            "172.253.135.129"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -920,14 +812,13 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "prefmgr-staging.youtube.com",
       "ipv4": [
-        "142.250.26.129",
-        "172.217.72.129",
-        "173.194.208.129"
+        "142.250.114.129",
+        "142.251.2.129"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -935,23 +826,21 @@
         "1.1.1.1": {
           "canonical_name": "prefmgr-staging.youtube.com",
           "ipv4": [
-            "172.217.72.129"
+            "142.250.114.129"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "prefmgr-staging.youtube.com",
           "ipv4": [
-            "173.194.208.129"
+            "142.251.2.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "prefmgr-staging.youtube.com",
-          "ipv4": [
-            "142.250.26.129"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -968,22 +857,22 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "rtmps.youtube.com",
       "ipv4": [
-        "142.250.26.134",
         "142.250.113.134",
         "142.250.114.134",
         "142.250.115.134",
-        "142.250.138.134",
+        "142.251.108.134",
         "142.251.116.134",
+        "142.251.121.134",
         "142.251.186.134",
-        "172.217.72.134",
         "172.253.135.134",
         "173.194.208.134",
+        "192.178.142.134",
         "192.178.220.134"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1005,35 +894,16 @@
         "8.8.8.8": {
           "canonical_name": "rtmps.youtube.com",
           "ipv4": [
-            "142.250.26.134",
-            "142.250.113.134",
-            "142.250.114.134",
-            "142.250.115.134",
-            "142.250.138.134",
-            "142.251.116.134",
-            "142.251.186.134",
-            "172.217.72.134",
-            "172.253.135.134",
-            "173.194.208.134",
-            "192.178.220.134"
+            "142.251.108.134",
+            "142.251.121.134",
+            "192.178.142.134"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "rtmps.youtube.com",
-          "ipv4": [
-            "142.250.113.134",
-            "142.250.114.134",
-            "142.250.115.134",
-            "142.250.138.134",
-            "142.251.116.134",
-            "142.251.186.134",
-            "172.217.72.134",
-            "172.253.135.134",
-            "173.194.208.134",
-            "192.178.220.134"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1050,17 +920,15 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "upload.youtube.com",
       "ipv4": [
-        "142.250.115.116",
-        "142.250.115.117",
-        "142.251.186.116",
-        "142.251.186.117",
+        "142.251.108.116",
+        "142.251.108.117",
         "173.194.208.116",
         "173.194.208.117"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1076,18 +944,15 @@
         "8.8.8.8": {
           "canonical_name": "yt-video-upload.l.google.com",
           "ipv4": [
-            "142.251.186.116",
-            "142.251.186.117"
+            "142.251.108.116",
+            "142.251.108.117"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "yt-video-upload.l.google.com",
-          "ipv4": [
-            "142.250.115.116",
-            "142.250.115.117"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1098,18 +963,18 @@
     },
     "uploads.stage.gdata.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "uploads.stage.gdata.youtube.com",
       "ipv4": [],
-      "last_check": "2026-08-23T11:32:19Z",
-      "last_failure": "2026-08-23T11:32:19Z",
-      "last_negative": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
+      "last_failure": "2026-08-23T17:32:14Z",
+      "last_negative": "2026-08-23T17:32:14Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-08-21T08:21:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1122,8 +987,9 @@
           "status": "NXDOMAIN"
         },
         "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.202 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
           "ipv4": [],
-          "status": "NXDOMAIN"
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1134,18 +1000,18 @@
     },
     "usercontent.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "usercontent.youtube.com",
       "ipv4": [],
-      "last_check": "2026-08-23T11:32:19Z",
-      "last_failure": "2026-08-23T11:32:19Z",
-      "last_negative": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
+      "last_failure": "2026-08-23T17:32:14Z",
+      "last_negative": "2026-08-23T17:32:14Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-08-21T08:21:34Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1158,8 +1024,9 @@
           "status": "NO_A"
         },
         "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
           "ipv4": [],
-          "status": "NO_A"
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1176,29 +1043,23 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "www.creatoracademy.youtube.com",
       "ipv4": [
-        "142.250.26.100",
-        "142.250.26.101",
-        "142.250.26.102",
-        "142.250.26.113",
-        "142.250.26.138",
-        "142.250.26.139",
-        "142.251.186.100",
-        "142.251.186.101",
-        "142.251.186.102",
-        "142.251.186.113",
-        "142.251.186.138",
-        "142.251.186.139",
-        "192.178.220.100",
-        "192.178.220.101",
-        "192.178.220.102",
-        "192.178.220.113",
-        "192.178.220.138",
-        "192.178.220.139"
+        "172.253.135.100",
+        "172.253.135.101",
+        "172.253.135.102",
+        "172.253.135.113",
+        "172.253.135.138",
+        "172.253.135.139",
+        "192.178.142.100",
+        "192.178.142.101",
+        "192.178.142.102",
+        "192.178.142.113",
+        "192.178.142.138",
+        "192.178.142.139"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1206,38 +1067,31 @@
         "1.1.1.1": {
           "canonical_name": "www.creatoracademy.youtube.com",
           "ipv4": [
-            "142.250.26.100",
-            "142.250.26.101",
-            "142.250.26.102",
-            "142.250.26.113",
-            "142.250.26.138",
-            "142.250.26.139"
+            "172.253.135.100",
+            "172.253.135.101",
+            "172.253.135.102",
+            "172.253.135.113",
+            "172.253.135.138",
+            "172.253.135.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www.creatoracademy.youtube.com",
           "ipv4": [
-            "192.178.220.100",
-            "192.178.220.101",
-            "192.178.220.102",
-            "192.178.220.113",
-            "192.178.220.138",
-            "192.178.220.139"
+            "192.178.142.100",
+            "192.178.142.101",
+            "192.178.142.102",
+            "192.178.142.113",
+            "192.178.142.138",
+            "192.178.142.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "www.creatoracademy.youtube.com",
-          "ipv4": [
-            "142.251.186.100",
-            "142.251.186.101",
-            "142.251.186.102",
-            "142.251.186.113",
-            "142.251.186.138",
-            "142.251.186.139"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.204 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1254,29 +1108,23 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "www.nflst.youtube.com",
       "ipv4": [
-        "142.251.116.100",
-        "142.251.116.101",
-        "142.251.116.102",
-        "142.251.116.113",
-        "142.251.116.138",
-        "142.251.116.139",
-        "172.217.72.100",
-        "172.217.72.101",
-        "172.217.72.102",
-        "172.217.72.113",
-        "172.217.72.138",
-        "172.217.72.139",
-        "172.253.135.100",
-        "172.253.135.101",
-        "172.253.135.102",
-        "172.253.135.113",
-        "172.253.135.138",
-        "172.253.135.139"
+        "142.250.138.100",
+        "142.250.138.101",
+        "142.250.138.102",
+        "142.250.138.113",
+        "142.250.138.138",
+        "142.250.138.139",
+        "142.251.121.100",
+        "142.251.121.101",
+        "142.251.121.102",
+        "142.251.121.113",
+        "142.251.121.138",
+        "142.251.121.139"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1284,38 +1132,31 @@
         "1.1.1.1": {
           "canonical_name": "www.nflst.youtube.com",
           "ipv4": [
-            "172.253.135.100",
-            "172.253.135.101",
-            "172.253.135.102",
-            "172.253.135.113",
-            "172.253.135.138",
-            "172.253.135.139"
+            "142.250.138.100",
+            "142.250.138.101",
+            "142.250.138.102",
+            "142.250.138.113",
+            "142.250.138.138",
+            "142.250.138.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www.nflst.youtube.com",
           "ipv4": [
-            "172.217.72.100",
-            "172.217.72.101",
-            "172.217.72.102",
-            "172.217.72.113",
-            "172.217.72.138",
-            "172.217.72.139"
+            "142.251.121.100",
+            "142.251.121.101",
+            "142.251.121.102",
+            "142.251.121.113",
+            "142.251.121.138",
+            "142.251.121.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "www.nflst.youtube.com",
-          "ipv4": [
-            "142.251.116.100",
-            "142.251.116.101",
-            "142.251.116.102",
-            "142.251.116.113",
-            "142.251.116.138",
-            "142.251.116.139"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1332,9 +1173,6 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.youtube-nocookie.com",
       "ipv4": [
-        "142.250.26.91",
-        "142.250.26.136",
-        "142.250.26.190",
         "142.250.113.91",
         "142.250.113.93",
         "142.250.113.136",
@@ -1343,85 +1181,36 @@
         "142.250.114.93",
         "142.250.114.136",
         "142.250.114.190",
-        "142.250.115.91",
-        "142.250.115.93",
-        "142.250.115.136",
         "142.250.115.190",
-        "142.250.138.91",
-        "142.250.138.93",
-        "142.250.138.190",
+        "142.251.108.91",
+        "142.251.108.93",
+        "142.251.108.136",
+        "142.251.108.190",
+        "142.251.116.91",
+        "142.251.116.93",
+        "142.251.116.136",
         "142.251.116.190",
-        "142.251.186.93",
-        "172.217.72.91",
-        "172.217.72.93",
-        "172.217.72.136",
-        "172.217.72.190",
+        "142.251.121.91",
+        "142.251.121.93",
+        "142.251.121.136",
+        "142.251.121.190",
         "172.253.135.91",
         "172.253.135.93",
-        "172.253.135.136",
         "172.253.135.190",
-        "173.194.208.91",
-        "173.194.208.93",
-        "173.194.208.136",
-        "173.194.208.190",
-        "192.178.220.91",
-        "192.178.220.93",
-        "192.178.220.136",
-        "192.178.220.190"
+        "192.178.142.91",
+        "192.178.142.93",
+        "192.178.142.136",
+        "192.178.142.190"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "youtube-ui.l.google.com",
-          "ipv4": [
-            "142.250.26.91",
-            "142.250.26.136",
-            "142.250.26.190",
-            "142.250.138.91",
-            "142.250.138.93",
-            "142.250.138.190",
-            "142.251.116.190",
-            "142.251.186.93",
-            "172.253.135.91",
-            "172.253.135.93",
-            "172.253.135.136",
-            "172.253.135.190",
-            "192.178.220.91",
-            "192.178.220.93",
-            "192.178.220.136",
-            "192.178.220.190"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
-          "canonical_name": "youtube-ui.l.google.com",
-          "ipv4": [
-            "142.250.114.91",
-            "142.250.114.93",
-            "142.250.114.136",
-            "142.250.114.190",
-            "142.250.115.91",
-            "142.250.115.93",
-            "142.250.115.136",
-            "142.250.115.190",
-            "172.217.72.91",
-            "172.217.72.93",
-            "172.217.72.136",
-            "172.217.72.190",
-            "173.194.208.91",
-            "173.194.208.93",
-            "173.194.208.136",
-            "173.194.208.190"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
           "canonical_name": "youtube-ui.l.google.com",
           "ipv4": [
             "142.250.113.91",
@@ -1432,16 +1221,39 @@
             "142.250.114.93",
             "142.250.114.136",
             "142.250.114.190",
-            "142.250.115.91",
-            "142.250.115.93",
-            "142.250.115.136",
             "142.250.115.190",
-            "173.194.208.91",
-            "173.194.208.93",
-            "173.194.208.136",
-            "173.194.208.190"
+            "142.251.116.91",
+            "142.251.116.93",
+            "142.251.116.136",
+            "142.251.116.190",
+            "172.253.135.91",
+            "172.253.135.93",
+            "172.253.135.190"
           ],
           "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "youtube-ui.l.google.com",
+          "ipv4": [
+            "142.251.108.91",
+            "142.251.108.93",
+            "142.251.108.136",
+            "142.251.108.190",
+            "142.251.121.91",
+            "142.251.121.93",
+            "142.251.121.136",
+            "142.251.121.190",
+            "192.178.142.91",
+            "192.178.142.93",
+            "192.178.142.136",
+            "192.178.142.190"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1467,10 +1279,10 @@
         "142.251.156.4",
         "142.251.157.4"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1504,18 +1316,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "www.youtube.com",
-          "ipv4": [
-            "142.251.150.4",
-            "142.251.151.4",
-            "142.251.152.4",
-            "142.251.153.4",
-            "142.251.154.4",
-            "142.251.155.4",
-            "142.251.156.4",
-            "142.251.157.4"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.202 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1536,15 +1339,15 @@
         "172.253.135.93",
         "172.253.135.136",
         "172.253.135.190",
-        "173.194.208.91",
-        "173.194.208.93",
-        "173.194.208.136",
-        "173.194.208.190"
+        "192.178.142.91",
+        "192.178.142.93",
+        "192.178.142.136",
+        "192.178.142.190"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1562,22 +1365,17 @@
         "8.8.8.8": {
           "canonical_name": "youtu.be",
           "ipv4": [
-            "173.194.208.91",
-            "173.194.208.93",
-            "173.194.208.136",
-            "173.194.208.190"
+            "192.178.142.91",
+            "192.178.142.93",
+            "192.178.142.136",
+            "192.178.142.190"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "youtu.be",
-          "ipv4": [
-            "172.253.135.91",
-            "172.253.135.93",
-            "172.253.135.136",
-            "172.253.135.190"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1595,19 +1393,19 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "youtube.com",
       "ipv4": [
-        "142.250.113.91",
-        "142.250.113.93",
-        "142.250.113.136",
-        "142.250.113.190",
-        "142.251.186.91",
-        "142.251.186.93",
-        "142.251.186.136",
-        "142.251.186.190"
+        "142.250.138.91",
+        "142.250.138.93",
+        "142.250.138.136",
+        "142.250.138.190",
+        "142.251.108.91",
+        "142.251.108.93",
+        "142.251.108.136",
+        "142.251.108.190"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1615,32 +1413,27 @@
         "1.1.1.1": {
           "canonical_name": "youtube.com",
           "ipv4": [
-            "142.251.186.91",
-            "142.251.186.93",
-            "142.251.186.136",
-            "142.251.186.190"
+            "142.250.138.91",
+            "142.250.138.93",
+            "142.250.138.136",
+            "142.250.138.190"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "youtube.com",
           "ipv4": [
-            "142.250.113.91",
-            "142.250.113.93",
-            "142.250.113.136",
-            "142.250.113.190"
+            "142.251.108.91",
+            "142.251.108.93",
+            "142.251.108.136",
+            "142.251.108.190"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "youtube.com",
-          "ipv4": [
-            "142.251.186.91",
-            "142.251.186.93",
-            "142.251.186.136",
-            "142.251.186.190"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1667,10 +1460,10 @@
         "172.217.118.4",
         "172.217.119.4"
       ],
-      "last_check": "2026-08-23T11:32:19Z",
+      "last_check": "2026-08-23T17:32:14Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-23T11:32:19Z",
+      "last_success": "2026-08-23T17:32:14Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1704,18 +1497,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "youtube.googleapis.com",
-          "ipv4": [
-            "172.217.112.4",
-            "172.217.113.4",
-            "172.217.114.4",
-            "172.217.115.4",
-            "172.217.116.4",
-            "172.217.117.4",
-            "172.217.118.4",
-            "172.217.119.4"
-          ],
-          "status": "OK"
+          "detail": "The resolution lifetime expired after 4.203 seconds: Server Do53:9.9.9.9@53 answered The DNS operation timed out.; Server Do53:9.9.9.9@53 answered The DNS operation timed out.",
+          "ipv4": [],
+          "status": "TIMEOUT"
         }
       },
       "safety_reason": null,
@@ -1725,6 +1509,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-08-23T11:32:19Z",
+  "updated_at": "2026-08-23T17:32:14Z",
   "version": 2
 }
