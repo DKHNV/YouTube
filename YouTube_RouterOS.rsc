@@ -2,6 +2,12 @@
 
 add list=youtube address=64.233.162.0/24 comment=youtube
 add list=youtube address=64.233.164.0/24 comment=youtube
+add list=youtube address=74.125.104.0/24 comment=youtube
+add list=youtube address=80.77.169.0/24 comment=youtube
+add list=youtube address=87.245.216.0/24 comment=youtube
+add list=youtube address=87.245.220.0/24 comment=youtube
+add list=youtube address=87.245.222.0/24 comment=youtube
+add list=youtube address=108.177.14.0/24 comment=youtube
 add list=youtube address=142.251.38.0/24 comment=youtube
 add list=youtube address=142.251.142.0/23 comment=youtube
 add list=youtube address=142.251.150.0/23 comment=youtube
@@ -13,6 +19,8 @@ add list=youtube address=172.217.112.0/22 comment=youtube
 add list=youtube address=172.217.116.0/22 comment=youtube
 add list=youtube address=172.253.130.0/24 comment=youtube
 add list=youtube address=173.194.73.0/24 comment=youtube
+add list=youtube address=173.194.151.0/24 comment=youtube
+add list=youtube address=173.194.221.0/24 comment=youtube
 add list=youtube address=192.178.25.0/24 comment=youtube
 add list=youtube address=216.58.201.0/24 comment=youtube
 add list=youtube address=216.58.207.0/24 comment=youtube
