@@ -3,6 +3,7 @@
 add list=youtube address=64.233.161.0/24 comment=youtube
 add list=youtube address=64.233.162.0/23 comment=youtube
 add list=youtube address=64.233.164.0/23 comment=youtube
+add list=youtube address=74.125.8.0/24 comment=youtube
 add list=youtube address=74.125.104.0/24 comment=youtube
 add list=youtube address=74.125.131.0/24 comment=youtube
 add list=youtube address=74.125.205.0/24 comment=youtube
