@@ -23,6 +23,7 @@ add list=youtube address=172.217.20.0/24 comment=youtube
 add list=youtube address=172.217.112.0/22 comment=youtube
 add list=youtube address=172.217.116.0/22 comment=youtube
 add list=youtube address=172.253.130.0/24 comment=youtube
+add list=youtube address=172.253.152.0/24 comment=youtube
 add list=youtube address=173.194.73.0/24 comment=youtube
 add list=youtube address=173.194.151.0/24 comment=youtube
 add list=youtube address=173.194.220.0/23 comment=youtube
