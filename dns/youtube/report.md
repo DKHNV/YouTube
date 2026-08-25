@@ -1,6 +1,6 @@
 # Youtube DNS Maintenance Report
 
-Generated: `2026-08-25T11:38:49Z`
+Generated: `2026-08-25T15:49:04Z`
 
 ## DNS lifecycle
 
@@ -10,6 +10,7 @@ Generated: `2026-08-25T11:38:49Z`
 | Pending | 0 |
 | Suspect | 6 |
 | Quarantine | 0 |
+| Excluded | 0 |
 | Expired | 0 |
 
 ## HTTPS/TLS observation
@@ -34,10 +35,11 @@ No current HTTPS/TLS failures.
 
 ## Discovery
 
-Discovery state updated: `2026-08-25T11:38:49Z`
+Discovery state updated: `2026-08-25T15:49:04Z`
 
 ## Notes
 
 - Public active DNS file: `YouTube_DNS`.
 - DNS lifecycle is time-based and does not depend on how many times per day the workflow runs.
+- Hostname policy exclusions are semantic decisions and are tracked separately from DNS quarantine.
 - HTTPS/TLS health is observational and never removes a hostname from the public DNS file.
