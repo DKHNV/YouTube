@@ -56,6 +56,12 @@
             "min_additional_seen_days": 1,
             "min_additional_observation_count": 1
           }
+        },
+        "exact_promotion": {
+          "enabled": true
+        },
+        "exact_promotion_apply": {
+          "enabled": false
         }
       },
       "discovery": {
