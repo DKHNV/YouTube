@@ -44,6 +44,28 @@
       "state": "hold",
       "version": 1
     },
+    "04521382daf5d6de7a1b33bb552a2ce7286939988ddbc73d55d137328b3b2937": {
+      "candidate_id": "04521382daf5d6de7a1b33bb552a2ce7286939988ddbc73d55d137328b3b2937",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr1---sn-5hnednss.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "06a171e12348605951a8a1bde70d38fa66c15e94fb6b94ee3c4526a445e53d87": {
       "candidate_id": "06a171e12348605951a8a1bde70d38fa66c15e94fb6b94ee3c4526a445e53d87",
       "criteria": {
@@ -2080,14 +2102,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr1---sn-gxuo03g-3c2z.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "cc748761da2ff7dccbe9c928d1ae16661ae8021e55f8043a64a893f9874e7e40": {
@@ -2686,13 +2708,13 @@
     }
   },
   "counts": {
-    "eligible": 0,
+    "eligible": 1,
     "hold": 122
   },
-  "evaluated_at": "2026-08-28T17:24:32Z",
+  "evaluated_at": "2026-08-29T04:07:42Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-08-28T17:24:32Z",
-  "source_content_hash": "a1f820e406fbbdc43f6318c9269abbe7a02e1e7a54df009ddd28c4f539180998",
+  "source_classified_at": "2026-08-29T04:07:42Z",
+  "source_content_hash": "d518e7e3b931509e5970d4039e6c47b4de1904130fb44192b20be72671a6a3a5",
   "version": 1
 }
