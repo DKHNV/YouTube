@@ -1,13 +1,13 @@
 # Youtube DNS Maintenance Report
 
-Generated: `2026-08-30T01:13:28Z`
+Generated: `2026-08-30T10:27:31Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 30 |
-| Pending | 1 |
+| Active | 31 |
+| Pending | 15 |
 | Suspect | 0 |
 | Quarantine | 6 |
 | Excluded | 0 |
@@ -17,7 +17,7 @@ Generated: `2026-08-30T01:13:28Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 30 |
+| Alive | 31 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 0 |
@@ -26,7 +26,7 @@ Generated: `2026-08-30T01:13:28Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **30**
+Measured hosts: **31**
 Average stability: **100.0%**
 
 ## Current HTTPS/TLS failures
@@ -35,7 +35,7 @@ No current HTTPS/TLS failures.
 
 ## Discovery
 
-Discovery state updated: `2026-08-30T01:13:28Z`
+Discovery state updated: `2026-08-30T10:27:31Z`
 
 ## Notes
 
