@@ -182,20 +182,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "s.youtube.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "1522b1ebb8d135ba4ec4ab7de9b0e2fbba137ebcae453a524891c1c7657298d6": {
@@ -650,14 +650,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "suggestqueries-clients6.youtube.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "3c9cbc237fc91ed903a3da7fb585e0c6935becaccab56622082a3b4f5d6203e9": {
@@ -2711,10 +2711,10 @@
     "eligible": 1,
     "hold": 122
   },
-  "evaluated_at": "2026-08-29T19:43:04Z",
+  "evaluated_at": "2026-08-30T01:13:28Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-08-29T19:43:04Z",
-  "source_content_hash": "116ec41e89aea83e283baf3a50aabb84645f343bf64f5b0bfcee7fcdc50bf5de",
+  "source_classified_at": "2026-08-30T01:13:28Z",
+  "source_content_hash": "1138c57c214896f4b27135faaf6a39efb60713c660042c0aa9b686250c095abd",
   "version": 1
 }
