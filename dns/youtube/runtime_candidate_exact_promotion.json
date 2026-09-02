@@ -996,20 +996,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "img.youtube.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "5b0c30dd32f0d4d06afeb4bf04cb7215c44ab45954143ce8a0dc5ea212a22dc6": {
@@ -2884,13 +2884,13 @@
     }
   },
   "counts": {
-    "eligible": 1,
-    "hold": 130
+    "eligible": 0,
+    "hold": 131
   },
-  "evaluated_at": "2026-09-02T15:04:22Z",
+  "evaluated_at": "2026-09-02T19:45:10Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-09-02T15:04:22Z",
+  "source_classified_at": "2026-09-02T19:45:10Z",
   "source_content_hash": "86277e2d08757b9da616d3d32b5f8705a5fa7e5509253317a5df582addba925d",
   "version": 1
 }
