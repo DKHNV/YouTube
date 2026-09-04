@@ -1,6 +1,6 @@
 # Youtube DNS Maintenance Report
 
-Generated: `2026-09-04T14:55:50Z`
+Generated: `2026-09-04T19:31:33Z`
 
 ## DNS lifecycle
 
@@ -35,7 +35,7 @@ No current HTTPS/TLS failures.
 
 ## Discovery
 
-Discovery state updated: `2026-09-04T14:55:50Z`
+Discovery state updated: `2026-09-04T19:31:33Z`
 
 ## Notes
 
