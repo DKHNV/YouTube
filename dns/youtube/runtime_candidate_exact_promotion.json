@@ -1832,20 +1832,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "r5---sn-ajixh5-55.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "9e865a0c3aed868598fa6636f49300a37ff936f992f7f7bbb8eba6a82cf4702c": {
@@ -2950,13 +2950,13 @@
     }
   },
   "counts": {
-    "eligible": 1,
-    "hold": 133
+    "eligible": 0,
+    "hold": 134
   },
-  "evaluated_at": "2026-09-05T00:54:13Z",
+  "evaluated_at": "2026-09-05T13:50:47Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-09-05T00:54:13Z",
-  "source_content_hash": "c88dceaf0c2a4c9b6ca44560387352ea5bf3ac1f6789556164caf82797c65a54",
+  "source_classified_at": "2026-09-05T13:50:47Z",
+  "source_content_hash": "3ed138e171eb6e1adc81defae63e52637ae1a78a473e641ab1981221502cec77",
   "version": 1
 }
