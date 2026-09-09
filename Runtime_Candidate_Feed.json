@@ -21,17 +21,17 @@
       "suffix": "youtube.com"
     },
     {
-      "active_cycles": 224,
+      "active_cycles": 232,
       "candidate_id": "4484bf82a6d6dda92e8f2ea93f4b213bbc2badebbbcf1eec9d70e97c6fe36439",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-25T08:28:58Z",
       "hostname": "i.ytimg.com",
       "id_version": 1,
-      "last_external_at": "2026-09-09T02:08:54Z",
-      "last_observed": "2026-09-09T02:12:05Z",
-      "observation_count": 341,
-      "presence_cycles": 4204,
+      "last_external_at": "2026-09-09T08:23:46Z",
+      "last_observed": "2026-09-09T08:45:10Z",
+      "observation_count": 352,
+      "presence_cycles": 4275,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-25",
@@ -94,17 +94,17 @@
       "suffix": "ytimg.com"
     },
     {
-      "active_cycles": 1981,
+      "active_cycles": 2051,
       "candidate_id": "52f50252a86348ae226d3a845c78f1379108abf82b7c7f64675e86469ae092ac",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "active",
       "first_observed": "2026-08-31T18:21:40Z",
       "hostname": "img.youtube.com",
       "id_version": 1,
-      "last_external_at": "2026-09-09T02:56:52Z",
-      "last_observed": "2026-09-09T02:57:38Z",
-      "observation_count": 2086,
-      "presence_cycles": 2086,
+      "last_external_at": "2026-09-09T08:55:20Z",
+      "last_observed": "2026-09-09T08:55:20Z",
+      "observation_count": 2157,
+      "presence_cycles": 2157,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-31",
@@ -221,15 +221,15 @@
     {
       "active_cycles": 13,
       "candidate_id": "2f18bfe3b21bb0a14be66bdb92711b32f7b027359eda50405f9e03f5f25c2527",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-09-06T23:04:12Z",
       "hostname": "r2---sn-gxuo03g-3c2s.googlevideo.com",
       "id_version": 1,
       "last_external_at": "2026-09-06T23:02:38Z",
       "last_observed": "2026-09-06T23:09:16Z",
       "observation_count": 2,
-      "presence_cycles": 619,
+      "presence_cycles": 651,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-06"
@@ -401,7 +401,7 @@
       "last_external_at": "2026-09-08T20:50:15Z",
       "last_observed": "2026-09-08T21:36:20Z",
       "observation_count": 2,
-      "presence_cycles": 74,
+      "presence_cycles": 145,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-08"
@@ -555,7 +555,7 @@
       "last_external_at": "2026-09-08T08:05:21Z",
       "last_observed": "2026-09-08T08:14:15Z",
       "observation_count": 65,
-      "presence_cycles": 4006,
+      "presence_cycles": 4077,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
@@ -584,7 +584,7 @@
       "last_external_at": "2026-09-08T20:47:36Z",
       "last_observed": "2026-09-08T20:51:05Z",
       "observation_count": 1,
-      "presence_cycles": 74,
+      "presence_cycles": 145,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-08"
@@ -650,47 +650,49 @@
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 42,
+      "active_cycles": 49,
       "candidate_id": "1522b1ebb8d135ba4ec4ab7de9b0e2fbba137ebcae453a524891c1c7657298d6",
-      "current_presence": false,
-      "current_routing_status": "absent",
+      "current_presence": true,
+      "current_routing_status": "expired",
       "first_observed": "2026-08-25T08:28:58Z",
       "hostname": "rr1---sn-ajixh5-55.googlevideo.com",
       "id_version": 1,
-      "last_external_at": "2026-09-05T23:54:18Z",
-      "last_observed": "2026-09-05T23:57:06Z",
-      "observation_count": 5,
-      "presence_cycles": 2205,
-      "reactivation_count": 3,
+      "last_external_at": "2026-09-09T05:43:33Z",
+      "last_observed": "2026-09-09T05:43:42Z",
+      "observation_count": 6,
+      "presence_cycles": 2244,
+      "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
         "2026-08-27",
         "2026-08-31",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-09"
       ],
       "state": "observed",
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 52,
+      "active_cycles": 62,
       "candidate_id": "45242f514a31688af6ff64d941b19ba43cea0cad3de78894781d72f9b8a45a25",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-25T08:28:58Z",
       "hostname": "rr1---sn-gxuo03g-3c2l.googlevideo.com",
       "id_version": 1,
-      "last_external_at": "2026-09-06T23:06:03Z",
-      "last_observed": "2026-09-06T23:09:16Z",
-      "observation_count": 8,
-      "presence_cycles": 3124,
-      "reactivation_count": 5,
+      "last_external_at": "2026-09-09T06:10:44Z",
+      "last_observed": "2026-09-09T06:13:56Z",
+      "observation_count": 9,
+      "presence_cycles": 3189,
+      "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
         "2026-08-28",
         "2026-08-30",
         "2026-09-01",
         "2026-09-04",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-09"
       ],
       "state": "observed",
       "suffix": "googlevideo.com"
@@ -706,7 +708,7 @@
       "last_external_at": "2026-09-07T12:53:25Z",
       "last_observed": "2026-09-07T13:01:32Z",
       "observation_count": 9,
-      "presence_cycles": 3895,
+      "presence_cycles": 3966,
       "reactivation_count": 5,
       "seen_dates": [
         "2026-08-24",
@@ -731,7 +733,7 @@
       "last_external_at": "2026-09-08T10:52:35Z",
       "last_observed": "2026-09-08T11:15:05Z",
       "observation_count": 12,
-      "presence_cycles": 3670,
+      "presence_cycles": 3741,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
@@ -757,7 +759,7 @@
       "last_external_at": "2026-09-07T20:57:27Z",
       "last_observed": "2026-09-07T20:59:37Z",
       "observation_count": 8,
-      "presence_cycles": 2555,
+      "presence_cycles": 2626,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-27",
@@ -780,7 +782,7 @@
       "last_external_at": "2026-09-07T12:54:39Z",
       "last_observed": "2026-09-07T13:01:32Z",
       "observation_count": 8,
-      "presence_cycles": 2604,
+      "presence_cycles": 2675,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-26",
@@ -826,7 +828,7 @@
       "last_external_at": "2026-09-07T22:13:59Z",
       "last_observed": "2026-09-07T22:15:18Z",
       "observation_count": 6,
-      "presence_cycles": 2328,
+      "presence_cycles": 2399,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
@@ -891,7 +893,7 @@
       "last_external_at": "2026-09-08T10:57:02Z",
       "last_observed": "2026-09-08T11:15:05Z",
       "observation_count": 3,
-      "presence_cycles": 191,
+      "presence_cycles": 262,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-08"
@@ -1113,15 +1115,15 @@
     {
       "active_cycles": 11,
       "candidate_id": "5b0c30dd32f0d4d06afeb4bf04cb7215c44ab45954143ce8a0dc5ea212a22dc6",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-08-25T08:28:58Z",
       "hostname": "rr2---sn-5hne6n6l.googlevideo.com",
       "id_version": 1,
       "last_external_at": "2026-09-06T21:39:19Z",
       "last_observed": "2026-09-06T21:53:37Z",
       "observation_count": 4,
-      "presence_cycles": 1067,
+      "presence_cycles": 1099,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-24",
@@ -1160,7 +1162,7 @@
       "last_external_at": "2026-09-07T13:00:00Z",
       "last_observed": "2026-09-07T13:01:32Z",
       "observation_count": 7,
-      "presence_cycles": 3401,
+      "presence_cycles": 3472,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
@@ -1184,7 +1186,7 @@
       "last_external_at": "2026-09-08T06:16:51Z",
       "last_observed": "2026-09-08T06:33:16Z",
       "observation_count": 10,
-      "presence_cycles": 3671,
+      "presence_cycles": 3742,
       "reactivation_count": 5,
       "seen_dates": [
         "2026-08-24",
@@ -1209,7 +1211,7 @@
       "last_external_at": "2026-09-07T12:53:24Z",
       "last_observed": "2026-09-07T12:56:30Z",
       "observation_count": 10,
-      "presence_cycles": 3893,
+      "presence_cycles": 3964,
       "reactivation_count": 5,
       "seen_dates": [
         "2026-08-24",
@@ -1234,7 +1236,7 @@
       "last_external_at": "2026-09-07T21:07:13Z",
       "last_observed": "2026-09-07T21:14:48Z",
       "observation_count": 10,
-      "presence_cycles": 2595,
+      "presence_cycles": 2666,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-27",
@@ -1257,7 +1259,7 @@
       "last_external_at": "2026-09-07T21:02:39Z",
       "last_observed": "2026-09-07T21:04:41Z",
       "observation_count": 8,
-      "presence_cycles": 2495,
+      "presence_cycles": 2566,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-26",
@@ -1337,7 +1339,7 @@
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 9,
+      "active_cycles": 11,
       "candidate_id": "1312ef27765efc1140dae51152370ac83f213ffc51b59281509a6fb2a3cea05c",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -1347,7 +1349,7 @@
       "last_external_at": "2026-09-07T22:12:02Z",
       "last_observed": "2026-09-07T22:15:18Z",
       "observation_count": 1,
-      "presence_cycles": 343,
+      "presence_cycles": 414,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-07"
@@ -1576,7 +1578,7 @@
       "last_external_at": "2026-09-07T22:14:47Z",
       "last_observed": "2026-09-07T22:15:18Z",
       "observation_count": 1,
-      "presence_cycles": 343,
+      "presence_cycles": 414,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-07"
@@ -1723,25 +1725,26 @@
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 64,
+      "active_cycles": 77,
       "candidate_id": "367fecd6e02a0a4ec19e42312409293de53bf5657a33f3b580874137244cf309",
-      "current_presence": false,
-      "current_routing_status": "absent",
+      "current_presence": true,
+      "current_routing_status": "expired",
       "first_observed": "2026-08-25T08:28:58Z",
       "hostname": "rr3---sn-gxuo03g-3c2l.googlevideo.com",
       "id_version": 1,
-      "last_external_at": "2026-09-06T09:08:10Z",
-      "last_observed": "2026-09-06T10:22:21Z",
-      "observation_count": 9,
-      "presence_cycles": 3153,
-      "reactivation_count": 4,
+      "last_external_at": "2026-09-09T05:43:21Z",
+      "last_observed": "2026-09-09T05:48:42Z",
+      "observation_count": 11,
+      "presence_cycles": 3192,
+      "reactivation_count": 5,
       "seen_dates": [
         "2026-08-24",
         "2026-08-26",
         "2026-08-29",
         "2026-09-01",
         "2026-09-04",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-09"
       ],
       "state": "observed",
       "suffix": "googlevideo.com"
@@ -1757,7 +1760,7 @@
       "last_external_at": "2026-09-07T12:53:25Z",
       "last_observed": "2026-09-07T13:06:38Z",
       "observation_count": 9,
-      "presence_cycles": 3894,
+      "presence_cycles": 3965,
       "reactivation_count": 5,
       "seen_dates": [
         "2026-08-24",
@@ -1782,7 +1785,7 @@
       "last_external_at": "2026-09-07T13:01:08Z",
       "last_observed": "2026-09-07T13:01:32Z",
       "observation_count": 11,
-      "presence_cycles": 3591,
+      "presence_cycles": 3662,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
@@ -1807,7 +1810,7 @@
       "last_external_at": "2026-09-07T12:59:59Z",
       "last_observed": "2026-09-07T13:01:32Z",
       "observation_count": 8,
-      "presence_cycles": 2692,
+      "presence_cycles": 2763,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-27",
@@ -1830,7 +1833,7 @@
       "last_external_at": "2026-09-08T06:17:45Z",
       "last_observed": "2026-09-08T06:23:13Z",
       "observation_count": 8,
-      "presence_cycles": 2549,
+      "presence_cycles": 2620,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
@@ -1853,7 +1856,7 @@
       "last_external_at": "2026-09-08T06:16:29Z",
       "last_observed": "2026-09-08T06:23:13Z",
       "observation_count": 8,
-      "presence_cycles": 2715,
+      "presence_cycles": 2786,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-25",
@@ -2238,7 +2241,7 @@
       "last_external_at": "2026-09-07T12:59:55Z",
       "last_observed": "2026-09-07T13:01:32Z",
       "observation_count": 8,
-      "presence_cycles": 3056,
+      "presence_cycles": 3127,
       "reactivation_count": 5,
       "seen_dates": [
         "2026-08-24",
@@ -2262,7 +2265,7 @@
       "last_external_at": "2026-09-08T10:52:58Z",
       "last_observed": "2026-09-08T10:55:04Z",
       "observation_count": 10,
-      "presence_cycles": 3093,
+      "presence_cycles": 3164,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
@@ -2287,7 +2290,7 @@
       "last_external_at": "2026-09-08T10:54:52Z",
       "last_observed": "2026-09-08T10:55:04Z",
       "observation_count": 10,
-      "presence_cycles": 3554,
+      "presence_cycles": 3625,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
@@ -2312,7 +2315,7 @@
       "last_external_at": "2026-09-08T10:56:44Z",
       "last_observed": "2026-09-08T11:05:04Z",
       "observation_count": 9,
-      "presence_cycles": 2563,
+      "presence_cycles": 2634,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
@@ -2335,7 +2338,7 @@
       "last_external_at": "2026-09-08T06:03:05Z",
       "last_observed": "2026-09-08T06:08:05Z",
       "observation_count": 6,
-      "presence_cycles": 2488,
+      "presence_cycles": 2559,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-24",
@@ -2549,7 +2552,7 @@
       "last_external_at": "2026-09-08T07:02:26Z",
       "last_observed": "2026-09-08T08:14:15Z",
       "observation_count": 2,
-      "presence_cycles": 238,
+      "presence_cycles": 309,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-08"
@@ -2596,7 +2599,7 @@
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 69,
+      "active_cycles": 73,
       "candidate_id": "2aa893ca1f3ecebaf70a1b07480dd0c773e2c2c17ebbe4fb79f2c47c117e4972",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -2606,7 +2609,7 @@
       "last_external_at": "2026-09-08T07:02:19Z",
       "last_observed": "2026-09-08T07:03:19Z",
       "observation_count": 8,
-      "presence_cycles": 3605,
+      "presence_cycles": 3676,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
@@ -2631,7 +2634,7 @@
       "last_external_at": "2026-09-08T10:56:45Z",
       "last_observed": "2026-09-08T11:15:05Z",
       "observation_count": 11,
-      "presence_cycles": 3274,
+      "presence_cycles": 3345,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
@@ -2678,7 +2681,7 @@
       "last_external_at": "2026-09-08T16:25:35Z",
       "last_observed": "2026-09-08T16:26:07Z",
       "observation_count": 6,
-      "presence_cycles": 2731,
+      "presence_cycles": 2802,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-25",
@@ -2844,25 +2847,26 @@
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 57,
+      "active_cycles": 68,
       "candidate_id": "17dab0ec930a844de388eb99acadf9b1efa59da47663427860a5e91a8eb72af6",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-25T08:28:58Z",
       "hostname": "rr6---sn-gxuo03g-3c2s.googlevideo.com",
       "id_version": 1,
-      "last_external_at": "2026-09-06T21:32:46Z",
-      "last_observed": "2026-09-06T21:33:26Z",
-      "observation_count": 9,
-      "presence_cycles": 3172,
-      "reactivation_count": 5,
+      "last_external_at": "2026-09-09T05:48:42Z",
+      "last_observed": "2026-09-09T05:48:42Z",
+      "observation_count": 10,
+      "presence_cycles": 3242,
+      "reactivation_count": 6,
       "seen_dates": [
         "2026-08-24",
         "2026-08-28",
         "2026-08-30",
         "2026-09-01",
         "2026-09-04",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-09"
       ],
       "state": "observed",
       "suffix": "googlevideo.com"
@@ -2925,17 +2929,17 @@
       "suffix": "googlevideo.com"
     },
     {
-      "active_cycles": 251,
+      "active_cycles": 260,
       "candidate_id": "12dee0d3e79a9bbfbaa1331d890eab70ef36018ed48c2b51401c96e2f84779ae",
       "current_presence": true,
-      "current_routing_status": "expired",
+      "current_routing_status": "active",
       "first_observed": "2026-08-27T20:48:41Z",
       "hostname": "s.youtube.com",
       "id_version": 1,
-      "last_external_at": "2026-09-08T20:49:43Z",
-      "last_observed": "2026-09-08T20:51:05Z",
-      "observation_count": 441,
-      "presence_cycles": 3416,
+      "last_external_at": "2026-09-09T08:53:52Z",
+      "last_observed": "2026-09-09T08:55:20Z",
+      "observation_count": 452,
+      "presence_cycles": 3487,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-27",
@@ -2950,7 +2954,8 @@
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ],
       "state": "observed",
       "suffix": "youtube.com"
@@ -2977,17 +2982,17 @@
       "suffix": "youtube.com"
     },
     {
-      "active_cycles": 142,
+      "active_cycles": 150,
       "candidate_id": "944da622638023871fc1a87f46dfad48d02cfbbfdf837fdc56405bb5bab2fb60",
       "current_presence": true,
-      "current_routing_status": "expired",
+      "current_routing_status": "active",
       "first_observed": "2026-08-27T16:51:21Z",
       "hostname": "www.youtube.com",
       "id_version": 1,
-      "last_external_at": "2026-09-08T16:28:31Z",
-      "last_observed": "2026-09-08T16:41:20Z",
-      "observation_count": 250,
-      "presence_cycles": 3489,
+      "last_external_at": "2026-09-09T08:53:56Z",
+      "last_observed": "2026-09-09T08:55:20Z",
+      "observation_count": 262,
+      "presence_cycles": 3560,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-27",
@@ -3002,14 +3007,15 @@
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ],
       "state": "observed",
       "suffix": "youtube.com"
     }
   ],
-  "content_hash": "fbf55081c7dfd0e7a48a8efea70de9a40f04a4c4be1be17d0e138273753b9403",
-  "generated_at": "2026-09-09T02:57:38Z",
+  "content_hash": "1e1ded3f52aa853ead9e71da6a932e9da7964bbcaa9b7d19cd2e0de8aa6956ec",
+  "generated_at": "2026-09-09T08:55:20Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
