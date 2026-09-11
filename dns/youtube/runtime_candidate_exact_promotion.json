@@ -1420,14 +1420,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "consent.youtube.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "6f72302b36c913f20a6129864b446e11277bbe664c29f093cdffdb496ec1752e": {
@@ -2107,6 +2107,28 @@
         "policy_rule": null
       },
       "hostname": "rr5---sn-5hne6n6l.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
+    "998b92c9d7777b21bccf805fefba224abd6107404a9f355e82f13b19ea8b542e": {
+      "candidate_id": "998b92c9d7777b21bccf805fefba224abd6107404a9f355e82f13b19ea8b542e",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr2---sn-5hne6nzk.googlevideo.com",
       "mode": "shadow",
       "reason": "exact_promotion_not_candidate",
       "state": "hold",
@@ -3456,13 +3478,13 @@
     }
   },
   "counts": {
-    "eligible": 0,
+    "eligible": 1,
     "hold": 157
   },
-  "evaluated_at": "2026-09-10T19:38:01Z",
+  "evaluated_at": "2026-09-11T01:00:45Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-09-10T19:38:01Z",
-  "source_content_hash": "6dd3273b937a28d022afac85c39e40665c5914598266b63868d2ccd44d2ed9b4",
+  "source_classified_at": "2026-09-11T01:00:45Z",
+  "source_content_hash": "3b1b66a5e378d91bbe1ca4fd0a314968006c852eb834f57039691e9c4d1b494e",
   "version": 1
 }
