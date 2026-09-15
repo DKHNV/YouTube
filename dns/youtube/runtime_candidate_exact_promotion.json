@@ -1298,6 +1298,28 @@
       "state": "hold",
       "version": 1
     },
+    "51048220ea0a47a509dce3169a206937b2f6da043e6c8b1339eb5d54eb210b69": {
+      "candidate_id": "51048220ea0a47a509dce3169a206937b2f6da043e6c8b1339eb5d54eb210b69",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr3---sn-oj5hn5-5m.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "529dd328c5f0d56510373c932510a9b6b3006dd6526a3cc1bbfd516d47256bc3": {
       "candidate_id": "529dd328c5f0d56510373c932510a9b6b3006dd6526a3cc1bbfd516d47256bc3",
       "criteria": {
@@ -3466,14 +3488,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "r1---sn-ixh7rn76.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "e2ca08973c4f4c4be44bfdcd18dec6331a4f41e1a87d4f9e217159c3b1db1928": {
@@ -3874,13 +3896,13 @@
     }
   },
   "counts": {
-    "eligible": 0,
+    "eligible": 1,
     "hold": 176
   },
-  "evaluated_at": "2026-09-14T20:55:32Z",
+  "evaluated_at": "2026-09-15T01:24:03Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-09-14T20:55:32Z",
-  "source_content_hash": "7654397f06b02e3fa8c693102f72bfb0822e489afa495fb6ef0b675443b865c3",
+  "source_classified_at": "2026-09-15T01:24:03Z",
+  "source_content_hash": "e3109a9d87ac974a688f39eaaa4521bf7fde432ff9060378dc6051f22052f475",
   "version": 1
 }
