@@ -710,20 +710,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "i1.ytimg.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "30c5661c3ddf93802421aa518f8d9104bedfde2732f39154c100ef88d06beaa9": {
@@ -3962,13 +3962,13 @@
     }
   },
   "counts": {
-    "eligible": 1,
-    "hold": 179
+    "eligible": 0,
+    "hold": 180
   },
-  "evaluated_at": "2026-09-16T01:22:35Z",
+  "evaluated_at": "2026-09-16T09:52:53Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-09-16T01:22:35Z",
-  "source_content_hash": "c6ba5a6106188b6c3f9555b89c6b328cfa7e51120daba99d42dc60956c042bd8",
+  "source_classified_at": "2026-09-16T09:52:53Z",
+  "source_content_hash": "0bd0cc711781a7d8884d1d5aed6767eb17e0b0cd4c4376339276ca82f6c08a3a",
   "version": 1
 }
