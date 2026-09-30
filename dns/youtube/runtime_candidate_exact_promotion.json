@@ -1562,6 +1562,28 @@
       "state": "hold",
       "version": 1
     },
+    "443249e49ed9735d9243d9aee4a067b145616cc5d64e453285bf46e9f99d9461": {
+      "candidate_id": "443249e49ed9735d9243d9aee4a067b145616cc5d64e453285bf46e9f99d9461",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr3---sn-25ge7nzz.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "4484bf82a6d6dda92e8f2ea93f4b213bbc2badebbbcf1eec9d70e97c6fe36439": {
       "candidate_id": "4484bf82a6d6dda92e8f2ea93f4b213bbc2badebbbcf1eec9d70e97c6fe36439",
       "criteria": {
@@ -3212,6 +3234,28 @@
       "state": "hold",
       "version": 1
     },
+    "952a0c72468a9f14de2829511bfab6b08737dd4acb44f4185a8cc6c515b8ca83": {
+      "candidate_id": "952a0c72468a9f14de2829511bfab6b08737dd4acb44f4185a8cc6c515b8ca83",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "r4---sn-4g5ednkd.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "953be85dab1c9b0dd4301c858044083491726b46852443b920c9a18422f04afa": {
       "candidate_id": "953be85dab1c9b0dd4301c858044083491726b46852443b920c9a18422f04afa",
       "criteria": {
@@ -4268,6 +4312,28 @@
       "state": "hold",
       "version": 1
     },
+    "c6b18f9e362b10ba7727defadb594ecd0a2376bcbf74f120c25a588ffa57a919": {
+      "candidate_id": "c6b18f9e362b10ba7727defadb594ecd0a2376bcbf74f120c25a588ffa57a919",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "r2---sn-oj5hn5-5m.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "c7cbfe17d8cc67b086019a0c6ec3232d5b3b6a071d00f50830871545e9985782": {
       "candidate_id": "c7cbfe17d8cc67b086019a0c6ec3232d5b3b6a071d00f50830871545e9985782",
       "criteria": {
@@ -4353,6 +4419,28 @@
       "hostname": "www.youtube-nocookie.com",
       "mode": "shadow",
       "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
+      "version": 1
+    },
+    "cb16996304d19b0c232f0c0a22d91f6f85d0a990e73d325e2d1f81313e770ad1": {
+      "candidate_id": "cb16996304d19b0c232f0c0a22d91f6f85d0a990e73d325e2d1f81313e770ad1",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr2---sn-oj5hn5-5m.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
       "state": "hold",
       "version": 1
     },
@@ -5547,12 +5635,12 @@
   },
   "counts": {
     "eligible": 0,
-    "hold": 252
+    "hold": 256
   },
-  "evaluated_at": "2026-09-30T02:03:26Z",
+  "evaluated_at": "2026-09-30T11:08:09Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-09-30T02:03:26Z",
-  "source_content_hash": "5bd3e5b74e966c02f0a903647d694493ef3bcd297118eed196a00380d3267aee",
+  "source_classified_at": "2026-09-30T11:08:09Z",
+  "source_content_hash": "ce209f904b9f119b093bfee3774046fc211540e32c27551c9e896e679308d75c",
   "version": 1
 }
