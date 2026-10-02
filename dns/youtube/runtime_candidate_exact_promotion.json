@@ -3878,19 +3878,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr4---sn-u15hn5-5v.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -4001,6 +4001,28 @@
       "hostname": "rr4---sn-oj5hn5-5f.googlevideo.com",
       "mode": "shadow",
       "reason": "exact_promotion_maturity_not_ready",
+      "state": "hold",
+      "version": 1
+    },
+    "a5a5e275941740e471b02619b4ca1af4f6080a281eec2335e6661a5c9975d93c": {
+      "candidate_id": "a5a5e275941740e471b02619b4ca1af4f6080a281eec2335e6661a5c9975d93c",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr3---sn-oj5hn5-5v.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
       "state": "hold",
       "version": 1
     },
@@ -6207,12 +6229,12 @@
   },
   "counts": {
     "eligible": 0,
-    "hold": 282
+    "hold": 283
   },
-  "evaluated_at": "2026-10-02T11:04:13Z",
+  "evaluated_at": "2026-10-02T16:36:40Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-02T11:04:13Z",
-  "source_content_hash": "e9c1eac2ceba8b674c21c220fd21d3f64ec6b71de583c3554b5ead75bac93a13",
+  "source_classified_at": "2026-10-02T16:36:40Z",
+  "source_content_hash": "31bbefc324e1e24579c616d8074c201d176040a0a5629162cd492841b9230b36",
   "version": 1
 }
