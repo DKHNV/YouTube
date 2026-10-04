@@ -710,19 +710,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr3---sn-oj5hn5-5t.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -2657,6 +2657,28 @@
         "policy_rule": null
       },
       "hostname": "rr4---sn-oj5hn5-55.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
+    "6b2bb2f79e0ba324eca79f3967e1c34192656c169ff481c0916e2442ab6cd465": {
+      "candidate_id": "6b2bb2f79e0ba324eca79f3967e1c34192656c169ff481c0916e2442ab6cd465",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "r1---sn-oj5hn5-5m.googlevideo.com",
       "mode": "shadow",
       "reason": "exact_promotion_not_candidate",
       "state": "hold",
@@ -6427,12 +6449,12 @@
   },
   "counts": {
     "eligible": 0,
-    "hold": 292
+    "hold": 293
   },
-  "evaluated_at": "2026-10-04T11:04:59Z",
+  "evaluated_at": "2026-10-04T15:46:35Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-04T11:04:59Z",
-  "source_content_hash": "c0acc4619fc7281e2ac2924c925509ff8051b728454dfea1871cb12b23220ff0",
+  "source_classified_at": "2026-10-04T15:46:35Z",
+  "source_content_hash": "c7dd9cbad242c402dd30671ddff1f6b6de4d94b5d12d7aaedade66efe786def3",
   "version": 1
 }
