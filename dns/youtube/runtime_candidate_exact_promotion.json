@@ -1480,19 +1480,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr1---sn-4g5edndk.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -6584,19 +6584,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr5---sn-u15hn5-51.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -6979,10 +6979,10 @@
     "eligible": 0,
     "hold": 317
   },
-  "evaluated_at": "2026-10-11T11:22:12Z",
+  "evaluated_at": "2026-10-11T20:56:58Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-11T11:22:12Z",
-  "source_content_hash": "c74dc0a27b61afc0a5b035c2197b87f15917172d3052680ae899c9b88f3f0ba3",
+  "source_classified_at": "2026-10-11T20:56:58Z",
+  "source_content_hash": "ed842ae352eea2219d9bdcb0b4a85bab865b42c339b1dd762b95b6a543567f19",
   "version": 1
 }
