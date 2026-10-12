@@ -198,6 +198,28 @@
       "state": "hold",
       "version": 1
     },
+    "0848ed388e27ddbbef70d2805b3d53c4507c1ea25a518eeb19b62aa41e6306c7": {
+      "candidate_id": "0848ed388e27ddbbef70d2805b3d53c4507c1ea25a518eeb19b62aa41e6306c7",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr3---sn-ajaig5-51.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "0bea1eb030b96d386e927d9a2dea46660fddcd303c4f08296f499ccb9ec48ef7": {
       "candidate_id": "0bea1eb030b96d386e927d9a2dea46660fddcd303c4f08296f499ccb9ec48ef7",
       "criteria": {
@@ -3284,19 +3306,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr6---sn-4pvgq-gv8e.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -6977,12 +6999,12 @@
   },
   "counts": {
     "eligible": 0,
-    "hold": 317
+    "hold": 318
   },
-  "evaluated_at": "2026-10-11T20:56:58Z",
+  "evaluated_at": "2026-10-12T02:19:20Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-11T20:56:58Z",
-  "source_content_hash": "ed842ae352eea2219d9bdcb0b4a85bab865b42c339b1dd762b95b6a543567f19",
+  "source_classified_at": "2026-10-12T02:19:20Z",
+  "source_content_hash": "22f9ccdec35f95e368eef15d2db6b82da95af6b0ad7391fc11461b76435f7b5c",
   "version": 1
 }
