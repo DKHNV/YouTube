@@ -1458,19 +1458,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr2---sn-aj5go5-5i.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -5154,19 +5154,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr3---sn-aj5goc-5x.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -7001,10 +7001,10 @@
     "eligible": 0,
     "hold": 318
   },
-  "evaluated_at": "2026-10-12T02:19:20Z",
+  "evaluated_at": "2026-10-12T13:05:14Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-12T02:19:20Z",
-  "source_content_hash": "22f9ccdec35f95e368eef15d2db6b82da95af6b0ad7391fc11461b76435f7b5c",
+  "source_classified_at": "2026-10-12T13:05:14Z",
+  "source_content_hash": "5e6d6a2ffea236f272d1cf106f49e9058201b8cfa17687db70563dc762458fb2",
   "version": 1
 }
