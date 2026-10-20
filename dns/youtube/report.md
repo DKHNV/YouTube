@@ -1,6 +1,6 @@
 # Youtube DNS Maintenance Report
 
-Generated: `2026-10-20T01:45:45Z`
+Generated: `2026-10-20T09:58:37Z`
 
 ## DNS lifecycle
 
@@ -31,11 +31,19 @@ Average stability: **99.9%**
 
 ## Current HTTPS/TLS failures
 
-No current HTTPS/TLS failures.
+| Type | Hosts |
+|---|---:|
+| TIMEOUT | 1 |
+
+### Failure details
+
+| Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
+|---|---|---|---:|---|---|---:|---:|
+| `rr1---sn-5hnednsz.googlevideo.com` | alive | `2026-10-20T09:58:37Z` | 1 | TIMEOUT | 74.125.8.230 | 96.0 | 25 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-20T01:45:45Z`
+Discovery state updated: `2026-10-20T09:58:37Z`
 
 ## Notes
 
