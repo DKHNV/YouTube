@@ -1,13 +1,13 @@
 # Youtube DNS Maintenance Report
 
-Generated: `2026-10-22T20:32:13Z`
+Generated: `2026-10-23T01:26:59Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
 | Active | 85 |
-| Pending | 0 |
+| Pending | 1 |
 | Suspect | 0 |
 | Quarantine | 6 |
 | Excluded | 0 |
@@ -39,11 +39,11 @@ Average stability: **99.6%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `rr1---sn-5hnednsz.googlevideo.com` | alive | `2026-10-20T09:58:37Z` | 11 | TIMEOUT | 74.125.8.230 | 68.6 | 35 |
+| `rr1---sn-5hnednsz.googlevideo.com` | alive | `2026-10-20T09:58:37Z` | 12 | TIMEOUT | 74.125.8.230 | 66.7 | 36 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-22T20:32:13Z`
+Discovery state updated: `2026-10-23T01:26:59Z`
 
 ## Notes
 
