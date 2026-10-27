@@ -5,7 +5,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 301,
-          "ip": "142.251.210.206",
+          "ip": "142.250.177.78",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -440,21 +440,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 301,
+          "ip": "142.250.177.78",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "admin.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.210.206",
-        "142.251.210.238",
-        "209.85.145.100"
+        "142.250.177.78",
+        "142.251.189.100",
+        "142.251.189.101"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -463,7 +471,7 @@
         {
           "cipher": "ECDHE-RSA-AES128-GCM-SHA256",
           "http_status": 302,
-          "ip": "142.250.112.129",
+          "ip": "142.251.178.129",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.2"
@@ -898,21 +906,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 302,
+          "ip": "142.251.178.129",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "ai.ytimg.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.112.129",
-        "142.251.184.129",
-        "74.125.132.129"
+        "142.251.178.129",
+        "192.178.210.129",
+        "209.85.200.129"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -921,7 +937,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.251.211.14",
+          "ip": "142.250.189.110",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1356,21 +1372,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.250.189.110",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "consent.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.211.14",
-        "142.251.34.238",
-        "172.253.155.100"
+        "142.250.189.110",
+        "142.251.184.100",
+        "142.251.184.101"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1379,7 +1403,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 301,
-          "ip": "142.250.188.174",
+          "ip": "142.251.210.206",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1814,21 +1838,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 301,
+          "ip": "142.251.210.206",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "creatoracademy.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.188.174",
-        "142.251.34.238",
-        "172.253.155.100"
+        "142.251.210.206",
+        "142.251.214.78",
+        "74.125.201.100"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1837,7 +1869,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.250.125.119",
+          "ip": "108.177.121.119",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -2272,21 +2304,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "108.177.121.119",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "i.ytimg.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.125.119",
+        "108.177.121.119",
         "142.250.177.246",
         "142.250.177.86"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2295,7 +2335,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.251.144.6",
+          "ip": "142.251.41.142",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -2730,21 +2770,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.251.41.142",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "i1.ytimg.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.144.6",
-        "142.251.145.6",
-        "142.251.146.6"
+        "142.251.41.142",
+        "142.251.41.78",
+        "192.178.209.100"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3188,20 +3236,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "216.239.36.60",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "i2.ytimg.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "216.239.36.60",
         "216.239.38.60"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3645,20 +3701,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "216.239.36.64",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "i3.ytimg.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "216.239.36.64",
         "216.239.38.64"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3667,7 +3731,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.250.177.238",
+          "ip": "108.177.121.101",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -4102,21 +4166,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "108.177.121.101",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "img.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.177.238",
-        "142.250.177.78",
-        "142.250.188.174"
+        "108.177.121.101",
+        "108.177.121.102",
+        "142.250.152.100"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4560,21 +4632,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 302,
+          "ip": "142.250.189.142",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "m.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "142.250.189.142",
-        "142.251.214.78",
-        "74.125.69.100"
+        "172.253.135.100",
+        "172.253.135.101"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5018,13 +5098,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 200,
+          "ip": "142.251.150.4",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "music.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "142.251.150.4",
@@ -5032,7 +5120,7 @@
         "142.251.152.4"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5041,7 +5129,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.250.217.110",
+          "ip": "142.250.138.100",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5476,21 +5564,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.250.138.100",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "nflst.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.217.110",
-        "142.251.214.78",
-        "74.125.202.100"
+        "142.250.138.100",
+        "142.250.138.101",
+        "142.250.138.102"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5499,7 +5595,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "173.194.64.92",
+          "ip": "142.251.183.92",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5934,21 +6030,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.251.183.92",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "payments.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "173.194.64.92",
-        "209.85.200.92",
-        "74.125.132.92"
+        "142.251.183.92",
+        "74.125.69.92"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5957,7 +6060,7 @@
         {
           "cipher": "ECDHE-RSA-AES128-GCM-SHA256",
           "http_status": 302,
-          "ip": "142.251.176.129",
+          "ip": "172.217.68.129",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.2"
@@ -6392,21 +6495,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 302,
+          "ip": "172.217.68.129",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "prefmgr-dev.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.176.129",
-        "172.253.155.129",
-        "173.194.193.129"
+        "172.217.68.129",
+        "192.178.131.129",
+        "74.125.69.129"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6415,7 +6526,7 @@
         {
           "cipher": "ECDHE-RSA-AES128-GCM-SHA256",
           "http_status": 302,
-          "ip": "172.217.77.129",
+          "ip": "172.217.71.129",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.2"
@@ -6850,21 +6961,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 302,
+          "ip": "172.217.71.129",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "prefmgr-staging.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "172.217.77.129",
-        "192.178.157.129",
-        "74.125.69.129"
+        "172.217.71.129",
+        "172.253.155.129",
+        "173.194.194.129"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7308,19 +7427,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.198",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "r1---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.198"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7764,19 +7891,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.200",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "r3---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.200"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8220,19 +8355,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.232",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "r3---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.232"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8676,19 +8819,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.201",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "r4---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.201"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9132,19 +9283,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.151.197",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "r5---sn-ajixh5-55.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.151.197"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9588,19 +9747,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "r5---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9609,7 +9776,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.251.183.100",
+          "ip": "142.251.184.100",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -10044,21 +10211,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.251.184.100",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "redirector.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.183.100",
-        "142.251.183.101",
-        "142.251.183.102"
+        "142.251.184.100",
+        "142.251.184.101",
+        "142.251.184.102"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10502,19 +10677,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.110.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-5go7yner.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.110.166"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10542,19 +10725,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.8.166",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "rr1---sn-5hne6n6l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.8.166"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10940,13 +11131,18 @@
           "at": "2026-10-27T04:56:10Z",
           "result": "SKIPPED",
           "type": "DNS_SKIPPED"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "result": "SKIPPED",
+          "type": "DNS_SKIPPED"
         }
       ],
       "history_failures": 16,
       "history_samples": 40,
       "history_successes": 24,
       "hostname": "rr1---sn-5hnednsz.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": {
         "at": "2026-10-24T01:32:03Z",
         "attempts": [
@@ -11392,19 +11588,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.111.113",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "rr1---sn-aj5go5-5p.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.111.113"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11832,19 +12036,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.164.209",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "rr1---sn-aj5goc-5j.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.164.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12288,19 +12500,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.151.193",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-ajixh5-55.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.151.193"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12744,19 +12964,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.216.172",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-gxuo03g-3c2l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.216.172"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13200,19 +13428,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.76",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.76"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13656,19 +13892,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.140",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-gxuo03g-3c2z.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.140"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14112,19 +14356,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.221.44",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-gxuo03g-ig3l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.221.44"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14568,19 +14820,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.223.44",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-gxuo03g-ig3s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.223.44"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15024,13 +15284,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.222.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-gxuo03g-vqnl.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": {
         "at": "2026-10-10T16:13:34Z",
         "attempts": [
@@ -15050,7 +15318,7 @@
         "87.245.222.236"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15494,19 +15762,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.198",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.198"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15950,19 +16226,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.230",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr1---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.230"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16406,19 +16690,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.8.167",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-5hne6n6l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.8.167"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16862,19 +17154,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.216.173",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-gxuo03g-3c2l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.216.173"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17318,19 +17618,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.77",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.77"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17774,19 +18082,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.141",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-gxuo03g-3c2z.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18230,19 +18546,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.221.45",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-gxuo03g-ig3l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.221.45"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18686,19 +19010,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.223.45",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-gxuo03g-ig3s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.223.45"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -19142,13 +19474,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.222.237",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-gxuo03g-vqnl.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": {
         "at": "2026-10-10T16:13:34Z",
         "attempts": [
@@ -19168,7 +19508,7 @@
         "87.245.222.237"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -19612,19 +19952,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.199",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.199"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -20068,19 +20416,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr2---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -20460,19 +20816,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.110.168",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 45,
-      "history_successes": 45,
+      "history_samples": 46,
+      "history_successes": 46,
       "hostname": "rr3---sn-5go7yner.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.110.168"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -20916,19 +21280,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.160.163",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-aj5go5-5i.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.160.163"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -21372,19 +21744,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.151.195",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-ajixh5-55.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.151.195"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -21828,19 +22208,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.216.174",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-gxuo03g-3c2l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.216.174"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -22284,19 +22672,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.78",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.78"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -22740,19 +23136,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.142",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-gxuo03g-3c2z.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.142"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -23196,19 +23600,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.221.46",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-gxuo03g-ig3l.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.221.46"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -23652,19 +24064,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.200",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.200"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -24108,19 +24528,67 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.232",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr3---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.232"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "rr3---sn-u15hn5-5m.googlevideo.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "209.85.226.99",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-10-27T12:02:24Z",
+      "history": [
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "209.85.226.99",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "rr3---sn-u15hn5-5m.googlevideo.com",
+      "last_check": "2026-10-27T12:02:24Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "209.85.226.99"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -24548,19 +25016,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.188.105",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "rr4---sn-4g5ednss.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.188.105"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -25004,19 +25480,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "209.85.226.9",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-5hnekn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "209.85.226.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -25452,19 +25936,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.164.212",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "rr4---sn-aj5goc-5j.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.164.212"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -25892,19 +26384,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.111.132",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "rr4---sn-aj5goc-5x.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.111.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -26348,19 +26848,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.151.196",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-ajixh5-55.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.151.196"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -26804,19 +27312,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -27260,19 +27776,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.143",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-gxuo03g-3c2z.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.143"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -27716,19 +28240,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.201",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.201"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -28172,19 +28704,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.233"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -28628,19 +29168,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.8.132",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr4---sn-oj5hn5-5f.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.8.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -28884,19 +29432,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.153.132",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 28,
-      "history_successes": 28,
+      "history_samples": 29,
+      "history_successes": 29,
       "hostname": "rr4---sn-u15hn5-5t.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.153.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -29324,19 +29880,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.110.170",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "rr5---sn-5go7yner.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.110.170"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -29684,19 +30248,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.151.69",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 41,
-      "history_successes": 41,
+      "history_samples": 42,
+      "history_successes": 42,
       "hostname": "rr5---sn-aj5go5-53.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.151.69"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -30124,19 +30696,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.111.117",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "rr5---sn-aj5go5-5p.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.111.117"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -30580,19 +31160,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "173.194.151.197",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr5---sn-ajixh5-55.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "173.194.151.197"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -31036,19 +31624,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr5---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -31492,19 +32088,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.202",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr5---sn-ixh7rn76.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.202"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -31948,19 +32552,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "74.125.104.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr5---sn-ixh7yn7e.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "74.125.104.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -32100,19 +32712,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "209.85.226.133",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 15,
-      "history_successes": 15,
+      "history_samples": 16,
+      "history_successes": 16,
       "hostname": "rr5---sn-u15hn5-5h.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "209.85.226.133"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -32556,19 +33176,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.81",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rr6---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.81"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -32732,19 +33360,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.82",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 18,
-      "history_successes": 18,
+      "history_samples": 19,
+      "history_successes": 19,
       "hostname": "rr7---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.82"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -32988,19 +33624,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "87.245.220.83",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 28,
-      "history_successes": 28,
+      "history_samples": 29,
+      "history_successes": 29,
       "hostname": "rr8---sn-gxuo03g-3c2s.googlevideo.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "87.245.220.83"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -33009,7 +33653,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": null,
-          "ip": "108.177.121.134",
+          "ip": "142.250.114.134",
           "port": 443,
           "status": "TLS_OK",
           "tls_version": "TLSv1.3"
@@ -33391,21 +34035,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "ip": "142.250.114.134",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "rtmps.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "108.177.121.134",
-        "142.250.113.134",
-        "142.250.114.134"
+        "142.250.114.134",
+        "142.250.115.134",
+        "142.250.138.134"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -33849,13 +34500,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.251.150.6",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "s.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "142.251.150.6",
@@ -33863,7 +34522,7 @@
         "142.251.152.6"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -33872,7 +34531,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.250.177.238",
+          "ip": "142.251.210.110",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -34307,21 +34966,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.251.210.110",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "suggestqueries-clients6.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.177.238",
-        "192.178.209.100",
-        "192.178.209.101"
+        "142.251.210.110",
+        "172.253.135.100",
+        "172.253.135.101"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -34330,7 +34997,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.250.189.111",
+          "ip": "142.251.211.47",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -34765,21 +35432,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.251.211.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "upload.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.189.111",
-        "142.251.41.79",
-        "74.125.126.116"
+        "142.251.211.47",
+        "173.194.208.116",
+        "173.194.208.117"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -34788,7 +35463,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 301,
-          "ip": "142.250.177.78",
+          "ip": "142.250.217.110",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -35223,21 +35898,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 301,
+          "ip": "142.250.217.110",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "www.creatoracademy.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.177.78",
+        "142.250.217.110",
         "142.251.214.78",
-        "172.253.155.100"
+        "74.125.201.100"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -35246,7 +35929,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "142.250.188.174",
+          "ip": "142.250.115.100",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -35681,21 +36364,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.250.115.100",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "www.nflst.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.188.174",
-        "142.251.211.46",
-        "209.85.200.100"
+        "142.250.115.100",
+        "142.250.115.101",
+        "142.250.115.102"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -36139,13 +36830,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "142.250.177.238",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "www.youtube-nocookie.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "142.250.177.238",
@@ -36153,7 +36852,7 @@
         "142.250.188.174"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -36597,13 +37296,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 200,
+          "ip": "142.251.150.4",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "www.youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "142.251.150.4",
@@ -36611,7 +37318,7 @@
         "142.251.152.4"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -36620,7 +37327,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 303,
-          "ip": "142.250.189.142",
+          "ip": "142.250.189.110",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -37055,21 +37762,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 303,
+          "ip": "142.250.189.110",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "youtu.be",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.250.189.142",
+        "142.250.189.110",
         "142.251.211.14",
-        "172.217.214.136"
+        "74.125.132.136"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -37078,7 +37793,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 301,
-          "ip": "142.251.210.206",
+          "ip": "142.251.210.110",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -37513,21 +38228,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 301,
+          "ip": "142.251.210.110",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "youtube.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.210.206",
-        "172.217.72.136",
-        "172.217.72.190"
+        "142.251.210.110",
+        "172.253.156.136",
+        "172.253.156.190"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -37971,13 +38694,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-10-27T12:02:24Z",
+          "http_status": 404,
+          "ip": "172.217.112.4",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "youtube.googleapis.com",
-      "last_check": "2026-10-27T04:56:10Z",
+      "last_check": "2026-10-27T12:02:24Z",
       "last_failure": null,
       "last_ipv4": [
         "172.217.112.4",
@@ -37985,11 +38716,11 @@
         "172.217.114.4"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-10-27T04:56:10Z",
+      "last_success": "2026-10-27T12:02:24Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-10-27T04:56:10Z",
+  "updated_at": "2026-10-27T12:02:24Z",
   "version": 3
 }
