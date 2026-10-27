@@ -4918,14 +4918,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr3---sn-u15hn5-5m.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "9ce13b909a93f7120fc24b0b031a6bbbaaee53d13833672a45e4edd5ef60f105": {
@@ -6254,20 +6254,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr1---sn-5hne6n6l.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "c24bf7b8da2f205690518d1c45e22929b3ae584502385de75edd76f5f63d064a": {
@@ -8189,10 +8189,10 @@
     "eligible": 1,
     "hold": 371
   },
-  "evaluated_at": "2026-10-26T22:36:30Z",
+  "evaluated_at": "2026-10-27T04:56:10Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-26T22:36:30Z",
-  "source_content_hash": "d73ef056a8e30c81ff44858aa793046716f8a69758f3fa38a87fa92471f38e37",
+  "source_classified_at": "2026-10-27T04:56:10Z",
+  "source_content_hash": "4628f7c58116b38f2066d0d81440dd1f3c4a49cdfece768e6c819b605a784551",
   "version": 1
 }
