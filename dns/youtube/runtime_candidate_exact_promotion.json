@@ -6106,14 +6106,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr3---sn-5hnekn7l.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "aaa1c584f7a4737f2434dfa40c11465cdd6515cbe2c626ec1654ef1da0b1ba55": {
@@ -7722,6 +7722,28 @@
       "state": "hold",
       "version": 1
     },
+    "dbbc093363e2d19a2be3c72ecead1cfee7a0b836b3ce6213319fcc87ed0d2403": {
+      "candidate_id": "dbbc093363e2d19a2be3c72ecead1cfee7a0b836b3ce6213319fcc87ed0d2403",
+      "criteria": {
+        "enabled": true
+      },
+      "evidence": {
+        "classification_decision": "observed",
+        "classification_reported_exact_dns_present": false,
+        "classification_reported_policy_excluded": false,
+        "exact_dns_present": false,
+        "exact_dns_status": null,
+        "feed_present": true,
+        "maturity_state": null,
+        "policy_excluded": false,
+        "policy_rule": null
+      },
+      "hostname": "rr1---sn-u14g55-cp.googlevideo.com",
+      "mode": "shadow",
+      "reason": "exact_promotion_not_candidate",
+      "state": "hold",
+      "version": 1
+    },
     "dc00b367c42fbd19ce6eb4081d4a18c5e91861f5150dec37f6fd075faec451b1": {
       "candidate_id": "dc00b367c42fbd19ce6eb4081d4a18c5e91861f5150dec37f6fd075faec451b1",
       "criteria": {
@@ -9000,13 +9022,13 @@
     }
   },
   "counts": {
-    "eligible": 0,
+    "eligible": 1,
     "hold": 409
   },
-  "evaluated_at": "2026-10-31T12:16:21Z",
+  "evaluated_at": "2026-10-31T21:27:48Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-10-31T12:16:21Z",
-  "source_content_hash": "180b73899a008d4dbb98549d1c9252d03243de0af598a3d507eff50ebc95a18c",
+  "source_classified_at": "2026-10-31T21:27:48Z",
+  "source_content_hash": "03565a9cb0452d06899bc9043d16eb71930ab9ee938f8fb07f2b56d3f590eaf0",
   "version": 1
 }
