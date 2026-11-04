@@ -3966,20 +3966,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr5---sn-5hnekn7d.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "6edfe7595a8729805cf51b49e352c7873c95d85dd9514cdc48d00f8fba034d7d": {
@@ -5968,20 +5968,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr4---sn-u15hn5-5v.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "a356a6bc7036be6880aca6cb178d3973a376792925a1972fdf9aa4628e0cf64e": {
@@ -9374,13 +9374,13 @@
     }
   },
   "counts": {
-    "eligible": 2,
-    "hold": 424
+    "eligible": 0,
+    "hold": 426
   },
-  "evaluated_at": "2026-11-03T23:15:21Z",
+  "evaluated_at": "2026-11-04T06:06:55Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-11-03T23:15:21Z",
-  "source_content_hash": "9eb72d55e8825b202f8bf21cb6b6cd90772dd041facf421acbfdf75fe2ceb169",
+  "source_classified_at": "2026-11-04T06:06:55Z",
+  "source_content_hash": "d8c7740f645168a6e8a2e1624343bdc54bd2c7c58ae878265d73c92709e5c33c",
   "version": 1
 }
