@@ -7534,7 +7534,7 @@
         "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": true,
-        "exact_dns_status": "active",
+        "exact_dns_status": "suspect",
         "feed_present": true,
         "maturity_state": null,
         "policy_excluded": false,
@@ -9839,10 +9839,10 @@
     "eligible": 0,
     "hold": 447
   },
-  "evaluated_at": "2026-11-07T21:44:30Z",
+  "evaluated_at": "2026-11-08T05:53:54Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-11-07T21:44:30Z",
-  "source_content_hash": "6325a8a499f8440fac7abd54a7355739481329f9b01247ed54f746213f256372",
+  "source_classified_at": "2026-11-08T05:53:54Z",
+  "source_content_hash": "0cd170fd586e15b7ebe35a56116aa5feb64a87f750ab00a2c4bdaa9b7709a105",
   "version": 1
 }
