@@ -3152,20 +3152,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr5---sn-u15hn5-58.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "4fe355ddaafa58c2fb04c51b75338304a85412a2a7672c1d183e77ce35bccd13": {
@@ -9158,19 +9158,19 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "observed",
+        "classification_decision": "candidate",
         "classification_reported_exact_dns_present": false,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": null,
+        "maturity_state": "tracking",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "r2---sn-tn.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_not_candidate",
+      "reason": "exact_promotion_maturity_not_ready",
       "state": "hold",
       "version": 1
     },
@@ -9880,13 +9880,13 @@
     }
   },
   "counts": {
-    "eligible": 1,
-    "hold": 448
+    "eligible": 0,
+    "hold": 449
   },
-  "evaluated_at": "2026-11-08T21:58:33Z",
+  "evaluated_at": "2026-11-09T06:12:57Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-11-08T21:58:33Z",
-  "source_content_hash": "23233195a24901702545a79425c955b9d39cebf1f1608967f27ffee2e9e44c37",
+  "source_classified_at": "2026-11-09T06:12:57Z",
+  "source_content_hash": "222094e912983638282dfb0890bb52b96a928457450aad3fbb12fd7a4c9e21a7",
   "version": 1
 }
