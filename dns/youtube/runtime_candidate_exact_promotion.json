@@ -3530,7 +3530,7 @@
         "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": true,
-        "exact_dns_status": "suspect",
+        "exact_dns_status": "quarantine",
         "feed_present": true,
         "maturity_state": null,
         "policy_excluded": false,
@@ -9008,7 +9008,7 @@
         "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
         "exact_dns_present": true,
-        "exact_dns_status": "suspect",
+        "exact_dns_status": "quarantine",
         "feed_present": true,
         "maturity_state": null,
         "policy_excluded": false,
@@ -10301,10 +10301,10 @@
     "eligible": 0,
     "hold": 468
   },
-  "evaluated_at": "2026-11-12T00:34:53Z",
+  "evaluated_at": "2026-11-12T15:03:55Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-11-12T00:34:53Z",
-  "source_content_hash": "1b29e247494207b2d8e666a5770afb187a1952a6233cb1775aa562d34a42ec74",
+  "source_classified_at": "2026-11-12T15:03:55Z",
+  "source_content_hash": "70f13f65d75eeef0405839428adc54be2337078bdd5db367b61b0a9c6492aa35",
   "version": 1
 }
