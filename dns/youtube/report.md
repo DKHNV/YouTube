@@ -1,13 +1,13 @@
 # Youtube DNS Maintenance Report
 
-Generated: `2026-11-18T07:16:05Z`
+Generated: `2026-11-18T20:25:26Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 121 |
-| Pending | 1 |
+| Active | 122 |
+| Pending | 2 |
 | Suspect | 0 |
 | Quarantine | 9 |
 | Excluded | 0 |
@@ -17,7 +17,7 @@ Generated: `2026-11-18T07:16:05Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 121 |
+| Alive | 122 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 0 |
@@ -26,8 +26,8 @@ Generated: `2026-11-18T07:16:05Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **121**
-Average stability: **99.9%**
+Measured hosts: **122**
+Average stability: **99.8%**
 
 ## Current HTTPS/TLS failures
 
@@ -39,14 +39,14 @@ Average stability: **99.9%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `rr1---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 1 | TIMEOUT | 172.217.132.198 | 97.0 | 33 |
-| `rr2---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 1 | TIMEOUT | 172.217.132.199 | 96.6 | 29 |
-| `rr4---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 1 | TIMEOUT | 172.217.132.201 | 97.0 | 33 |
-| `rr5---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 1 | TIMEOUT | 172.217.132.202 | 96.8 | 31 |
+| `rr1---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 2 | TIMEOUT | 172.217.132.198 | 93.9 | 33 |
+| `rr2---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 2 | TIMEOUT | 172.217.132.199 | 93.3 | 30 |
+| `rr4---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 2 | TIMEOUT | 172.217.132.201 | 93.9 | 33 |
+| `rr5---sn-5hnednss.googlevideo.com` | alive | `2026-11-18T07:16:05Z` | 2 | TIMEOUT | 172.217.132.202 | 93.8 | 32 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-18T07:16:05Z`
+Discovery state updated: `2026-11-18T20:25:26Z`
 
 ## Notes
 
