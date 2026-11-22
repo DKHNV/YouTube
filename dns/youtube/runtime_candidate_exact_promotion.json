@@ -50,20 +50,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr2---sn-oj5hn5-5g.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "01aa9b151e864cd7474ca0d58dfe794bc501bb92930bc57753baa9681b3e9445": {
@@ -2256,14 +2256,14 @@
         "exact_dns_present": false,
         "exact_dns_status": null,
         "feed_present": true,
-        "maturity_state": "tracking",
+        "maturity_state": "ready",
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr3---sn-oj5hn5-50.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_maturity_not_ready",
-      "state": "hold",
+      "reason": "exact_promotion_eligible",
+      "state": "eligible",
       "version": 1
     },
     "3381934fc82b4b8079c1e0cb079f1779b5875c34114ec5f5cf49870a4dc29fe0": {
@@ -5858,20 +5858,20 @@
         "enabled": true
       },
       "evidence": {
-        "classification_decision": "candidate",
-        "classification_reported_exact_dns_present": false,
+        "classification_decision": "observe_only",
+        "classification_reported_exact_dns_present": true,
         "classification_reported_policy_excluded": false,
-        "exact_dns_present": false,
-        "exact_dns_status": null,
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
         "feed_present": true,
-        "maturity_state": "ready",
+        "maturity_state": null,
         "policy_excluded": false,
         "policy_rule": null
       },
       "hostname": "rr3---sn-u15hn5-5n.googlevideo.com",
       "mode": "shadow",
-      "reason": "exact_promotion_eligible",
-      "state": "eligible",
+      "reason": "exact_promotion_exact_dns_existing",
+      "state": "hold",
       "version": 1
     },
     "837d65c35dad49fe2920d4d0000a294063a7863e06a1d144cac8373683112260": {
@@ -11156,13 +11156,13 @@
     }
   },
   "counts": {
-    "eligible": 2,
-    "hold": 505
+    "eligible": 1,
+    "hold": 506
   },
-  "evaluated_at": "2026-11-22T06:37:18Z",
+  "evaluated_at": "2026-11-22T19:30:14Z",
   "mode": "shadow",
   "service": "youtube",
-  "source_classified_at": "2026-11-22T06:37:18Z",
-  "source_content_hash": "6b28b5af6b3e2b655aba343898cb3e854a90201d4de0ca28e401cf2a28d2cbf4",
+  "source_classified_at": "2026-11-22T19:30:14Z",
+  "source_content_hash": "fb73432240230bb975acf9788cda4ccc89855c49a5380a3c37d10bee1b118169",
   "version": 1
 }
