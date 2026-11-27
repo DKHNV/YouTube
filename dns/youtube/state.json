@@ -2,18 +2,18 @@
   "hosts": {
     "admin-green-qa.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 37,
+      "consecutive_negative_checks": 38,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin-green-qa.youtube.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 37,
+      "negative_observations": 38,
       "negative_since": "2026-11-09T22:15:48Z",
       "quarantined_at": "2026-11-17T07:47:49Z",
       "resolver_results": {
@@ -38,18 +38,18 @@
     },
     "admin-py3.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 37,
+      "consecutive_negative_checks": 38,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin-py3.youtube.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 37,
+      "negative_observations": 38,
       "negative_since": "2026-11-09T22:15:48Z",
       "quarantined_at": "2026-11-17T07:47:49Z",
       "resolver_results": {
@@ -74,18 +74,18 @@
     },
     "admin-release-qa.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 37,
+      "consecutive_negative_checks": 38,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin-release-qa.youtube.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 37,
+      "negative_observations": 38,
       "negative_since": "2026-11-09T22:15:48Z",
       "quarantined_at": "2026-11-17T07:47:49Z",
       "resolver_results": {
@@ -116,29 +116,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "admin.youtube.com",
       "ipv4": [
-        "142.251.167.100",
-        "142.251.167.101",
-        "142.251.167.102",
-        "142.251.167.113",
-        "142.251.167.138",
-        "142.251.167.139",
-        "172.253.63.100",
-        "172.253.63.101",
-        "172.253.63.102",
-        "172.253.63.113",
-        "172.253.63.138",
-        "172.253.63.139",
-        "172.253.115.100",
-        "172.253.115.101",
-        "172.253.115.102",
-        "172.253.115.113",
-        "172.253.115.138",
-        "172.253.115.139"
+        "142.251.32.14",
+        "142.251.41.142",
+        "142.251.210.238"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -146,36 +131,21 @@
         "1.1.1.1": {
           "canonical_name": "www3.l.google.com",
           "ipv4": [
-            "142.251.167.100",
-            "142.251.167.101",
-            "142.251.167.102",
-            "142.251.167.113",
-            "142.251.167.138",
-            "142.251.167.139"
+            "142.251.210.238"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www3.l.google.com",
           "ipv4": [
-            "172.253.115.100",
-            "172.253.115.101",
-            "172.253.115.102",
-            "172.253.115.113",
-            "172.253.115.138",
-            "172.253.115.139"
+            "142.251.32.14"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "www3.l.google.com",
           "ipv4": [
-            "172.253.63.100",
-            "172.253.63.101",
-            "172.253.63.102",
-            "172.253.63.113",
-            "172.253.63.138",
-            "172.253.63.139"
+            "142.251.41.142"
           ],
           "status": "OK"
         }
@@ -194,14 +164,13 @@
       "first_seen": "2026-08-21T08:17:33Z",
       "hostname": "ai.ytimg.com",
       "ipv4": [
-        "142.251.111.129",
-        "142.251.179.129",
-        "192.178.218.129"
+        "142.251.182.129",
+        "192.178.157.129"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -209,21 +178,21 @@
         "1.1.1.1": {
           "canonical_name": "ai.ytimg.com",
           "ipv4": [
-            "142.251.179.129"
+            "192.178.157.129"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "ai.ytimg.com",
           "ipv4": [
-            "192.178.218.129"
+            "192.178.157.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "ai.ytimg.com",
           "ipv4": [
-            "142.251.111.129"
+            "142.251.182.129"
           ],
           "status": "OK"
         }
@@ -242,29 +211,14 @@
       "first_seen": "2026-09-11T01:00:45Z",
       "hostname": "consent.youtube.com",
       "ipv4": [
-        "172.253.63.100",
-        "172.253.63.101",
-        "172.253.63.102",
-        "172.253.63.113",
-        "172.253.63.138",
-        "172.253.63.139",
-        "172.253.122.100",
-        "172.253.122.101",
-        "172.253.122.102",
-        "172.253.122.113",
-        "172.253.122.138",
-        "172.253.122.139",
-        "192.178.155.100",
-        "192.178.155.101",
-        "192.178.155.102",
-        "192.178.155.113",
-        "192.178.155.138",
-        "192.178.155.139"
+        "142.250.217.110",
+        "142.251.41.142",
+        "142.251.211.14"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -272,36 +226,21 @@
         "1.1.1.1": {
           "canonical_name": "consent.youtube.com",
           "ipv4": [
-            "192.178.155.100",
-            "192.178.155.101",
-            "192.178.155.102",
-            "192.178.155.113",
-            "192.178.155.138",
-            "192.178.155.139"
+            "142.251.41.142"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "consent.youtube.com",
           "ipv4": [
-            "172.253.122.100",
-            "172.253.122.101",
-            "172.253.122.102",
-            "172.253.122.113",
-            "172.253.122.138",
-            "172.253.122.139"
+            "142.250.217.110"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "consent.youtube.com",
           "ipv4": [
-            "172.253.63.100",
-            "172.253.63.101",
-            "172.253.63.102",
-            "172.253.63.113",
-            "172.253.63.138",
-            "172.253.63.139"
+            "142.251.211.14"
           ],
           "status": "OK"
         }
@@ -328,29 +267,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "creatoracademy.youtube.com",
       "ipv4": [
-        "142.251.16.100",
-        "142.251.16.101",
-        "142.251.16.102",
-        "142.251.16.113",
-        "142.251.16.138",
-        "142.251.16.139",
-        "172.253.122.100",
-        "172.253.122.101",
-        "172.253.122.102",
-        "172.253.122.113",
-        "172.253.122.138",
-        "172.253.122.139",
-        "172.253.139.100",
-        "172.253.139.101",
-        "172.253.139.102",
-        "172.253.139.113",
-        "172.253.139.138",
-        "172.253.139.139"
+        "142.250.177.78",
+        "142.250.189.142",
+        "142.250.217.110"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -358,36 +282,21 @@
         "1.1.1.1": {
           "canonical_name": "creatoracademy.youtube.com",
           "ipv4": [
-            "172.253.122.100",
-            "172.253.122.101",
-            "172.253.122.102",
-            "172.253.122.113",
-            "172.253.122.138",
-            "172.253.122.139"
+            "142.250.217.110"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "creatoracademy.youtube.com",
           "ipv4": [
-            "142.251.16.100",
-            "142.251.16.101",
-            "142.251.16.102",
-            "142.251.16.113",
-            "142.251.16.138",
-            "142.251.16.139"
+            "142.250.177.78"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "creatoracademy.youtube.com",
           "ipv4": [
-            "172.253.139.100",
-            "172.253.139.101",
-            "172.253.139.102",
-            "172.253.139.113",
-            "172.253.139.138",
-            "172.253.139.139"
+            "142.250.189.142"
           ],
           "status": "OK"
         }
@@ -415,10 +324,10 @@
         "192.178.40.6",
         "192.178.41.6"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -490,10 +399,10 @@
         "192.178.40.6",
         "192.178.41.6"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -566,10 +475,10 @@
         "216.239.36.60",
         "216.239.38.60"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -616,10 +525,10 @@
         "216.239.36.64",
         "216.239.38.64"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -663,49 +572,25 @@
       "first_seen": "2026-09-02T15:04:22Z",
       "hostname": "img.youtube.com",
       "ipv4": [
-        "64.233.180.113",
-        "64.233.180.138",
-        "142.250.31.113",
-        "142.250.31.138",
-        "142.251.16.100",
-        "142.251.16.101",
-        "142.251.16.102",
-        "142.251.16.113",
-        "142.251.16.138",
-        "142.251.16.139",
-        "142.251.111.100",
-        "142.251.111.138",
-        "142.251.179.100",
-        "142.251.179.101",
-        "142.251.179.102",
-        "142.251.179.113",
-        "142.251.179.138",
-        "142.251.179.139",
-        "172.253.62.101",
-        "172.253.62.113",
-        "172.253.63.101",
-        "172.253.63.102",
-        "172.253.63.113",
-        "172.253.63.138",
-        "172.253.63.139",
-        "172.253.115.100",
-        "172.253.115.101",
-        "172.253.115.102",
-        "172.253.115.113",
-        "172.253.115.138",
-        "172.253.115.139",
-        "172.253.122.100",
-        "172.253.122.101",
-        "172.253.122.102",
-        "172.253.122.113",
-        "172.253.122.138",
-        "172.253.122.139",
-        "192.178.218.100"
+        "142.250.177.78",
+        "142.250.177.238",
+        "142.250.189.110",
+        "142.250.189.142",
+        "142.250.217.110",
+        "142.251.32.14",
+        "142.251.34.238",
+        "142.251.41.78",
+        "142.251.41.142",
+        "142.251.210.110",
+        "142.251.210.206",
+        "142.251.210.238",
+        "142.251.211.14",
+        "142.251.214.78"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -713,66 +598,52 @@
         "1.1.1.1": {
           "canonical_name": "ytimg.l.google.com",
           "ipv4": [
-            "142.251.179.100",
-            "142.251.179.101",
-            "142.251.179.102",
-            "142.251.179.113",
-            "142.251.179.138",
-            "142.251.179.139",
-            "172.253.62.101",
-            "172.253.62.113",
-            "172.253.115.100",
-            "172.253.115.101",
-            "172.253.115.113",
-            "172.253.115.138",
-            "172.253.115.139",
-            "172.253.122.102",
-            "172.253.122.113",
-            "172.253.122.139"
+            "142.250.177.78",
+            "142.250.177.238",
+            "142.250.189.110",
+            "142.250.189.142",
+            "142.250.217.110",
+            "142.251.41.78",
+            "142.251.41.142",
+            "142.251.210.110",
+            "142.251.210.206",
+            "142.251.211.14",
+            "142.251.214.78"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "ytimg.l.google.com",
           "ipv4": [
-            "142.250.31.113",
-            "142.250.31.138",
-            "142.251.16.100",
-            "142.251.16.101",
-            "142.251.16.102",
-            "142.251.16.113",
-            "142.251.16.138",
-            "142.251.16.139",
-            "142.251.111.100",
-            "142.251.111.138",
-            "172.253.63.101",
-            "172.253.63.102",
-            "172.253.63.113",
-            "172.253.63.138",
-            "172.253.63.139",
-            "192.178.218.100"
+            "142.250.177.78",
+            "142.250.177.238",
+            "142.250.189.110",
+            "142.250.189.142",
+            "142.250.217.110",
+            "142.251.34.238",
+            "142.251.41.78",
+            "142.251.41.142",
+            "142.251.210.110",
+            "142.251.210.206",
+            "142.251.210.238",
+            "142.251.211.14"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "ytimg.l.google.com",
           "ipv4": [
-            "64.233.180.113",
-            "64.233.180.138",
-            "142.251.179.100",
-            "142.251.179.102",
-            "142.251.179.139",
-            "172.253.115.100",
-            "172.253.115.101",
-            "172.253.115.102",
-            "172.253.115.113",
-            "172.253.115.138",
-            "172.253.122.100",
-            "172.253.122.101",
-            "172.253.122.102",
-            "172.253.122.113",
-            "172.253.122.138",
-            "172.253.122.139"
+            "142.250.177.238",
+            "142.250.189.110",
+            "142.250.217.110",
+            "142.251.32.14",
+            "142.251.34.238",
+            "142.251.41.78",
+            "142.251.41.142",
+            "142.251.210.110",
+            "142.251.210.206",
+            "142.251.210.238",
+            "142.251.211.14"
           ],
           "status": "OK"
         }
@@ -799,29 +670,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "m.youtube.com",
       "ipv4": [
-        "142.251.163.100",
-        "142.251.163.101",
-        "142.251.163.102",
-        "142.251.163.113",
-        "142.251.163.138",
-        "142.251.163.139",
-        "172.253.63.100",
-        "172.253.63.101",
-        "172.253.63.102",
-        "172.253.63.113",
-        "172.253.63.138",
-        "172.253.63.139",
-        "173.194.45.100",
-        "173.194.45.101",
-        "173.194.45.102",
-        "173.194.45.113",
-        "173.194.45.138",
-        "173.194.45.139"
+        "142.250.177.78",
+        "142.251.214.78"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -829,36 +684,21 @@
         "1.1.1.1": {
           "canonical_name": "m.youtube.com",
           "ipv4": [
-            "142.251.163.100",
-            "142.251.163.101",
-            "142.251.163.102",
-            "142.251.163.113",
-            "142.251.163.138",
-            "142.251.163.139"
+            "142.251.214.78"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "m.youtube.com",
           "ipv4": [
-            "173.194.45.100",
-            "173.194.45.101",
-            "173.194.45.102",
-            "173.194.45.113",
-            "173.194.45.138",
-            "173.194.45.139"
+            "142.250.177.78"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "m.youtube.com",
           "ipv4": [
-            "172.253.63.100",
-            "172.253.63.101",
-            "172.253.63.102",
-            "172.253.63.113",
-            "172.253.63.138",
-            "172.253.63.139"
+            "142.250.177.78"
           ],
           "status": "OK"
         }
@@ -922,10 +762,10 @@
         "142.251.156.4",
         "142.251.157.4"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -987,23 +827,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "nflst.youtube.com",
       "ipv4": [
-        "142.251.16.100",
-        "142.251.16.101",
-        "142.251.16.102",
-        "142.251.16.113",
-        "142.251.16.138",
-        "142.251.16.139",
-        "172.253.122.100",
-        "172.253.122.101",
-        "172.253.122.102",
-        "172.253.122.113",
-        "172.253.122.138",
-        "172.253.122.139"
+        "142.250.177.238",
+        "142.251.41.142",
+        "142.251.210.238"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1011,36 +842,21 @@
         "1.1.1.1": {
           "canonical_name": "nflst.youtube.com",
           "ipv4": [
-            "172.253.122.100",
-            "172.253.122.101",
-            "172.253.122.102",
-            "172.253.122.113",
-            "172.253.122.138",
-            "172.253.122.139"
+            "142.251.210.238"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "nflst.youtube.com",
           "ipv4": [
-            "142.251.16.100",
-            "142.251.16.101",
-            "142.251.16.102",
-            "142.251.16.113",
-            "142.251.16.138",
-            "142.251.16.139"
+            "142.250.177.238"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "nflst.youtube.com",
           "ipv4": [
-            "172.253.122.100",
-            "172.253.122.101",
-            "172.253.122.102",
-            "172.253.122.113",
-            "172.253.122.138",
-            "172.253.122.139"
+            "142.251.41.142"
           ],
           "status": "OK"
         }
@@ -1059,14 +875,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "payments.youtube.com",
       "ipv4": [
-        "172.253.63.92",
-        "173.194.45.92",
-        "192.178.218.92"
+        "64.233.179.92",
+        "74.125.126.92",
+        "192.178.212.92"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1074,21 +890,21 @@
         "1.1.1.1": {
           "canonical_name": "payments.youtube.com",
           "ipv4": [
-            "192.178.218.92"
+            "64.233.179.92"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "payments.youtube.com",
           "ipv4": [
-            "173.194.45.92"
+            "192.178.212.92"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "payments.youtube.com",
           "ipv4": [
-            "172.253.63.92"
+            "74.125.126.92"
           ],
           "status": "OK"
         }
@@ -1107,14 +923,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "prefmgr-dev.youtube.com",
       "ipv4": [
-        "64.233.180.129",
-        "172.253.62.129",
-        "192.178.155.129"
+        "142.251.182.129",
+        "172.217.77.129",
+        "173.194.112.129"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1122,21 +938,21 @@
         "1.1.1.1": {
           "canonical_name": "prefmgr-dev.youtube.com",
           "ipv4": [
-            "192.178.155.129"
+            "142.251.182.129"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "prefmgr-dev.youtube.com",
           "ipv4": [
-            "172.253.62.129"
+            "172.217.77.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "prefmgr-dev.youtube.com",
           "ipv4": [
-            "64.233.180.129"
+            "173.194.112.129"
           ],
           "status": "OK"
         }
@@ -1155,14 +971,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "prefmgr-staging.youtube.com",
       "ipv4": [
-        "142.251.163.129",
-        "142.251.179.129",
-        "173.194.45.129"
+        "142.250.112.129",
+        "172.253.151.129",
+        "192.178.214.129"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1170,21 +986,21 @@
         "1.1.1.1": {
           "canonical_name": "prefmgr-staging.youtube.com",
           "ipv4": [
-            "142.251.163.129"
+            "172.253.151.129"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "prefmgr-staging.youtube.com",
           "ipv4": [
-            "142.251.179.129"
+            "192.178.214.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "prefmgr-staging.youtube.com",
           "ipv4": [
-            "173.194.45.129"
+            "142.250.112.129"
           ],
           "status": "OK"
         }
@@ -1205,10 +1021,10 @@
       "ipv4": [
         "74.125.104.198"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1259,10 +1075,10 @@
       "ipv4": [
         "74.125.7.113"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1313,10 +1129,10 @@
       "ipv4": [
         "74.125.104.199"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1367,10 +1183,10 @@
       "ipv4": [
         "74.125.104.200"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1421,10 +1237,10 @@
       "ipv4": [
         "74.125.104.232"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1475,10 +1291,10 @@
       "ipv4": [
         "74.125.104.201"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1529,10 +1345,10 @@
       "ipv4": [
         "74.125.104.233"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1583,10 +1399,10 @@
       "ipv4": [
         "173.194.151.197"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1637,10 +1453,10 @@
       "ipv4": [
         "74.125.104.202"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1691,10 +1507,10 @@
       "ipv4": [
         "74.125.104.234"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1743,29 +1559,14 @@
       "first_seen": "2026-08-28T08:13:30Z",
       "hostname": "redirector.googlevideo.com",
       "ipv4": [
-        "142.250.31.100",
-        "142.250.31.101",
-        "142.250.31.102",
-        "142.250.31.113",
-        "142.250.31.138",
-        "142.250.31.139",
-        "142.251.16.100",
-        "142.251.16.101",
-        "142.251.16.102",
-        "142.251.16.113",
-        "142.251.16.138",
-        "142.251.16.139",
-        "192.178.218.100",
-        "192.178.218.101",
-        "192.178.218.102",
-        "192.178.218.113",
-        "192.178.218.138",
-        "192.178.218.139"
+        "142.250.177.238",
+        "142.250.217.110",
+        "142.251.34.238"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1773,36 +1574,21 @@
         "1.1.1.1": {
           "canonical_name": "redirector.googlevideo.com",
           "ipv4": [
-            "142.250.31.100",
-            "142.250.31.101",
-            "142.250.31.102",
-            "142.250.31.113",
-            "142.250.31.138",
-            "142.250.31.139"
+            "142.251.34.238"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "redirector.googlevideo.com",
           "ipv4": [
-            "192.178.218.100",
-            "192.178.218.101",
-            "192.178.218.102",
-            "192.178.218.113",
-            "192.178.218.138",
-            "192.178.218.139"
+            "142.250.217.110"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "redirector.googlevideo.com",
           "ipv4": [
-            "142.251.16.100",
-            "142.251.16.101",
-            "142.251.16.102",
-            "142.251.16.113",
-            "142.251.16.138",
-            "142.251.16.139"
+            "142.250.177.238"
           ],
           "status": "OK"
         }
@@ -1831,10 +1617,10 @@
       "ipv4": [
         "172.217.133.198"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1885,10 +1671,10 @@
       "ipv4": [
         "74.125.173.230"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1939,10 +1725,10 @@
       "ipv4": [
         "74.125.110.166"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1993,10 +1779,10 @@
       "ipv4": [
         "74.125.110.134"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2039,18 +1825,18 @@
     },
     "rr1---sn-5hne6n6l.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 49,
+      "consecutive_negative_checks": 50,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-10-26T22:36:30Z",
       "hostname": "rr1---sn-5hne6n6l.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-04T14:24:24Z",
-      "negative_observations": 49,
+      "negative_observations": 50,
       "negative_since": "2026-11-04T23:37:29Z",
       "quarantined_at": "2026-11-12T00:34:53Z",
       "resolver_results": {
@@ -2083,20 +1869,20 @@
     },
     "rr1---sn-5hnednss.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 14,
+      "consecutive_negative_checks": 15,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-11-03T00:54:36Z",
       "hostname": "rr1---sn-5hnednss.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-19T20:28:50Z",
-      "negative_observations": 14,
+      "negative_observations": 15,
       "negative_since": "2026-11-20T07:03:54Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-11-27T08:15:57Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -2123,22 +1909,22 @@
       "sources": [
         "runtime_candidate_exact_promotion:v1"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rr1---sn-5hnednsz.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 85,
+      "consecutive_negative_checks": 86,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-10-13T21:49:15Z",
       "hostname": "rr1---sn-5hnednsz.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-10-24T01:32:03Z",
-      "negative_observations": 85,
+      "negative_observations": 86,
       "negative_since": "2026-10-24T09:28:11Z",
       "quarantined_at": "2026-10-31T12:16:21Z",
       "resolver_results": {
@@ -2179,10 +1965,10 @@
       "ipv4": [
         "173.194.151.65"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2233,10 +2019,10 @@
       "ipv4": [
         "74.125.111.113"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2287,10 +2073,10 @@
       "ipv4": [
         "173.194.164.209"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2341,10 +2127,10 @@
       "ipv4": [
         "173.194.151.193"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2395,10 +2181,10 @@
       "ipv4": [
         "87.245.216.172"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2449,10 +2235,10 @@
       "ipv4": [
         "87.245.220.76"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2503,10 +2289,10 @@
       "ipv4": [
         "87.245.220.140"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2557,10 +2343,10 @@
       "ipv4": [
         "87.245.221.44"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2611,10 +2397,10 @@
       "ipv4": [
         "87.245.223.44"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2665,10 +2451,10 @@
       "ipv4": [
         "87.245.222.236"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2719,10 +2505,10 @@
       "ipv4": [
         "74.125.104.198"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2773,10 +2559,10 @@
       "ipv4": [
         "74.125.104.230"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2827,10 +2613,10 @@
       "ipv4": [
         "172.217.132.225"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2881,10 +2667,10 @@
       "ipv4": [
         "209.85.226.145"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2935,10 +2721,10 @@
       "ipv4": [
         "173.194.153.161"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2989,10 +2775,10 @@
       "ipv4": [
         "209.85.226.65"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3043,10 +2829,10 @@
       "ipv4": [
         "209.85.226.97"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3097,10 +2883,10 @@
       "ipv4": [
         "74.125.8.81"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3151,10 +2937,10 @@
       "ipv4": [
         "173.194.18.231"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3197,18 +2983,18 @@
     },
     "rr2---sn-5hne6n6l.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 48,
+      "consecutive_negative_checks": 49,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-09-17T09:57:07Z",
       "hostname": "rr2---sn-5hne6n6l.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-04T23:37:29Z",
-      "negative_observations": 48,
+      "negative_observations": 49,
       "negative_since": "2026-11-05T06:36:07Z",
       "quarantined_at": "2026-11-12T15:03:55Z",
       "resolver_results": {
@@ -3249,10 +3035,10 @@
       "ipv4": [
         "172.217.132.103"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3293,22 +3079,52 @@
       ],
       "status": "active"
     },
+    "rr2---sn-5hne6nz6.googlevideo.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-11-27T08:15:57Z",
+      "hostname": "rr2---sn-5hne6nz6.googlevideo.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "runtime_promotion": {
+        "candidate_id": "84c30a77c9ea4cd87904f03bb02e65de173cb8b902023e7a355f63408b8129fe",
+        "promoted_at": "2026-11-27T08:15:57Z",
+        "source_classified_at": "2026-11-27T08:15:57Z",
+        "source_content_hash": "fc31ef63f41d5177aa27d7416cae593012d05f20aaf3ea3b1e3084208c494570",
+        "source_promotion_evaluated_at": "2026-11-27T08:15:57Z",
+        "version": 1
+      },
+      "safety_reason": null,
+      "sources": [
+        "runtime_candidate_exact_promotion:v1"
+      ],
+      "status": "pending"
+    },
     "rr2---sn-5hnednss.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 14,
+      "consecutive_negative_checks": 15,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-11-05T19:52:50Z",
       "hostname": "rr2---sn-5hnednss.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-19T20:28:50Z",
-      "negative_observations": 14,
+      "negative_observations": 15,
       "negative_since": "2026-11-20T07:03:54Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-11-27T08:15:57Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -3335,7 +3151,7 @@
       "sources": [
         "runtime_candidate_exact_promotion:v1"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rr2---sn-aj5go5-5i.googlevideo.com": {
       "canonical_name": "rr2.sn-aj5go5-5i.googlevideo.com",
@@ -3347,10 +3163,10 @@
       "ipv4": [
         "173.194.160.162"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3401,10 +3217,10 @@
       "ipv4": [
         "74.125.111.114"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3455,10 +3271,10 @@
       "ipv4": [
         "74.125.4.242"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3509,10 +3325,10 @@
       "ipv4": [
         "87.245.216.173"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3563,10 +3379,10 @@
       "ipv4": [
         "87.245.220.77"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3617,10 +3433,10 @@
       "ipv4": [
         "87.245.220.141"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3671,10 +3487,10 @@
       "ipv4": [
         "87.245.221.45"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3725,10 +3541,10 @@
       "ipv4": [
         "87.245.223.45"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3779,10 +3595,10 @@
       "ipv4": [
         "87.245.222.237"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3833,10 +3649,10 @@
       "ipv4": [
         "74.125.104.199"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3887,10 +3703,10 @@
       "ipv4": [
         "74.125.104.231"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3941,10 +3757,10 @@
       "ipv4": [
         "74.125.8.130"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3995,10 +3811,10 @@
       "ipv4": [
         "172.217.132.226"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4049,10 +3865,10 @@
       "ipv4": [
         "173.194.153.66"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4103,10 +3919,10 @@
       "ipv4": [
         "209.85.226.146"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4157,10 +3973,10 @@
       "ipv4": [
         "74.125.8.82"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4211,10 +4027,10 @@
       "ipv4": [
         "173.194.153.130"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4265,10 +4081,10 @@
       "ipv4": [
         "74.125.110.168"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4311,18 +4127,18 @@
     },
     "rr3---sn-5hne6n6l.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 48,
+      "consecutive_negative_checks": 49,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-10-28T22:30:24Z",
       "hostname": "rr3---sn-5hne6n6l.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-04T23:37:29Z",
-      "negative_observations": 48,
+      "negative_observations": 49,
       "negative_since": "2026-11-05T06:36:07Z",
       "quarantined_at": "2026-11-12T15:03:55Z",
       "resolver_results": {
@@ -4363,10 +4179,10 @@
       "ipv4": [
         "74.125.100.8"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4417,10 +4233,10 @@
       "ipv4": [
         "173.194.151.67"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4471,10 +4287,10 @@
       "ipv4": [
         "173.194.160.163"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4525,10 +4341,10 @@
       "ipv4": [
         "173.194.164.211"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4579,10 +4395,10 @@
       "ipv4": [
         "173.194.151.195"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4633,10 +4449,10 @@
       "ipv4": [
         "87.245.216.174"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4687,10 +4503,10 @@
       "ipv4": [
         "87.245.220.78"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4741,10 +4557,10 @@
       "ipv4": [
         "87.245.220.142"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4795,10 +4611,10 @@
       "ipv4": [
         "87.245.221.46"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4849,10 +4665,10 @@
       "ipv4": [
         "87.245.222.238"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4903,10 +4719,10 @@
       "ipv4": [
         "74.125.104.200"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4957,10 +4773,10 @@
       "ipv4": [
         "74.125.104.232"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5011,10 +4827,10 @@
       "ipv4": [
         "172.217.132.243"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5065,10 +4881,10 @@
       "ipv4": [
         "173.194.153.67"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5119,10 +4935,10 @@
       "ipv4": [
         "173.194.153.99"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5163,6 +4979,36 @@
       ],
       "status": "active"
     },
+    "rr3---sn-oj5hn5-5v.googlevideo.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-11-27T08:15:57Z",
+      "hostname": "rr3---sn-oj5hn5-5v.googlevideo.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "runtime_promotion": {
+        "candidate_id": "a5a5e275941740e471b02619b4ca1af4f6080a281eec2335e6661a5c9975d93c",
+        "promoted_at": "2026-11-27T08:15:57Z",
+        "source_classified_at": "2026-11-27T08:15:57Z",
+        "source_content_hash": "fc31ef63f41d5177aa27d7416cae593012d05f20aaf3ea3b1e3084208c494570",
+        "source_promotion_evaluated_at": "2026-11-27T08:15:57Z",
+        "version": 1
+      },
+      "safety_reason": null,
+      "sources": [
+        "runtime_candidate_exact_promotion:v1"
+      ],
+      "status": "pending"
+    },
     "rr3---sn-u15hn5-51.googlevideo.com": {
       "canonical_name": "rr3.sn-u15hn5-51.googlevideo.com",
       "consecutive_negative_checks": 0,
@@ -5173,10 +5019,10 @@
       "ipv4": [
         "173.194.153.163"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5227,10 +5073,10 @@
       "ipv4": [
         "74.125.8.67"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5281,10 +5127,10 @@
       "ipv4": [
         "74.125.8.99"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5335,10 +5181,10 @@
       "ipv4": [
         "209.85.226.99"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5389,10 +5235,10 @@
       "ipv4": [
         "74.125.8.83"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5443,10 +5289,10 @@
       "ipv4": [
         "173.194.163.68"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5497,10 +5343,10 @@
       "ipv4": [
         "173.194.188.105"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5551,10 +5397,10 @@
       "ipv4": [
         "74.125.100.201"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5597,20 +5443,20 @@
     },
     "rr4---sn-5hnednss.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 14,
+      "consecutive_negative_checks": 15,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-11-03T00:54:36Z",
       "hostname": "rr4---sn-5hnednss.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-19T20:28:50Z",
-      "negative_observations": 14,
+      "negative_observations": 15,
       "negative_since": "2026-11-20T07:03:54Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-11-27T08:15:57Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -5637,7 +5483,7 @@
       "sources": [
         "runtime_candidate_exact_promotion:v1"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rr4---sn-5hnekn76.googlevideo.com": {
       "canonical_name": "rr4.sn-5hnekn76.googlevideo.com",
@@ -5649,10 +5495,10 @@
       "ipv4": [
         "209.85.226.9"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5703,10 +5549,10 @@
       "ipv4": [
         "209.85.226.41"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5757,10 +5603,10 @@
       "ipv4": [
         "74.125.100.105"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5811,10 +5657,10 @@
       "ipv4": [
         "173.194.160.164"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5865,10 +5711,10 @@
       "ipv4": [
         "173.194.164.212"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5919,10 +5765,10 @@
       "ipv4": [
         "74.125.111.132"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5973,10 +5819,10 @@
       "ipv4": [
         "173.194.151.196"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6027,10 +5873,10 @@
       "ipv4": [
         "87.245.220.79"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6081,10 +5927,10 @@
       "ipv4": [
         "87.245.220.143"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6135,10 +5981,10 @@
       "ipv4": [
         "74.125.104.201"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6189,10 +6035,10 @@
       "ipv4": [
         "74.125.104.233"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6243,10 +6089,10 @@
       "ipv4": [
         "74.125.8.132"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6297,10 +6143,10 @@
       "ipv4": [
         "209.85.226.148"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6351,10 +6197,10 @@
       "ipv4": [
         "74.125.8.68"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6405,10 +6251,10 @@
       "ipv4": [
         "74.125.8.100"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6459,10 +6305,10 @@
       "ipv4": [
         "209.85.226.100"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6513,10 +6359,10 @@
       "ipv4": [
         "173.194.153.132"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6567,10 +6413,10 @@
       "ipv4": [
         "173.194.153.36"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6611,6 +6457,36 @@
       ],
       "status": "active"
     },
+    "rr4---sn-u15hn5-c5.googlevideo.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-11-27T08:15:57Z",
+      "hostname": "rr4---sn-u15hn5-c5.googlevideo.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "runtime_promotion": {
+        "candidate_id": "28a47930f819281731a43216db67d6ee500e22f545fcd26f70f1961b04da7c42",
+        "promoted_at": "2026-11-27T08:15:57Z",
+        "source_classified_at": "2026-11-27T08:15:57Z",
+        "source_content_hash": "fc31ef63f41d5177aa27d7416cae593012d05f20aaf3ea3b1e3084208c494570",
+        "source_promotion_evaluated_at": "2026-11-27T08:15:57Z",
+        "version": 1
+      },
+      "safety_reason": null,
+      "sources": [
+        "runtime_candidate_exact_promotion:v1"
+      ],
+      "status": "pending"
+    },
     "rr5---sn-2oaig5-5n.googlevideo.com": {
       "canonical_name": "rr5.sn-2oaig5-5n.googlevideo.com",
       "consecutive_negative_checks": 0,
@@ -6621,10 +6497,10 @@
       "ipv4": [
         "173.194.5.5"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6675,10 +6551,10 @@
       "ipv4": [
         "74.125.110.170"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6729,10 +6605,10 @@
       "ipv4": [
         "74.125.110.138"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6783,10 +6659,10 @@
       "ipv4": [
         "172.217.132.10"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6829,20 +6705,20 @@
     },
     "rr5---sn-5hnednss.googlevideo.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 14,
+      "consecutive_negative_checks": 15,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-11-04T23:37:29Z",
       "hostname": "rr5---sn-5hnednss.googlevideo.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-11-19T20:28:50Z",
-      "negative_observations": 14,
+      "negative_observations": 15,
       "negative_since": "2026-11-20T07:03:54Z",
-      "quarantined_at": null,
+      "quarantined_at": "2026-11-27T08:15:57Z",
       "resolver_results": {
         "1.1.1.1": {
           "ipv4": [],
@@ -6869,7 +6745,7 @@
       "sources": [
         "runtime_candidate_exact_promotion:v1"
       ],
-      "status": "suspect"
+      "status": "quarantine"
     },
     "rr5---sn-5hnekn7d.googlevideo.com": {
       "canonical_name": "rr5.sn-5hnekn7d.googlevideo.com",
@@ -6881,10 +6757,10 @@
       "ipv4": [
         "209.85.226.42"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6935,10 +6811,10 @@
       "ipv4": [
         "173.194.151.69"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6989,10 +6865,10 @@
       "ipv4": [
         "74.125.111.117"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7043,10 +6919,10 @@
       "ipv4": [
         "173.194.164.213"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7097,10 +6973,10 @@
       "ipv4": [
         "173.194.151.197"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7151,10 +7027,10 @@
       "ipv4": [
         "87.245.220.80"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7205,10 +7081,10 @@
       "ipv4": [
         "74.125.104.202"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7259,10 +7135,10 @@
       "ipv4": [
         "74.125.104.234"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7313,10 +7189,10 @@
       "ipv4": [
         "209.85.226.165"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7367,10 +7243,10 @@
       "ipv4": [
         "209.85.226.149"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7421,10 +7297,10 @@
       "ipv4": [
         "74.125.8.69"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7475,10 +7351,10 @@
       "ipv4": [
         "209.85.226.133"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7529,10 +7405,10 @@
       "ipv4": [
         "74.125.8.85"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7583,10 +7459,10 @@
       "ipv4": [
         "87.245.220.81"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7637,10 +7513,10 @@
       "ipv4": [
         "87.245.220.82"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7691,10 +7567,10 @@
       "ipv4": [
         "87.245.220.83"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7743,27 +7619,25 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "rtmps.youtube.com",
       "ipv4": [
-        "64.233.180.134",
-        "142.250.31.134",
-        "142.251.16.134",
-        "142.251.111.134",
-        "142.251.163.134",
-        "142.251.167.134",
-        "142.251.179.134",
-        "172.253.62.134",
-        "172.253.63.134",
-        "172.253.115.134",
-        "172.253.122.134",
-        "172.253.139.134",
-        "173.194.45.134",
-        "192.178.155.134",
-        "192.179.18.134",
-        "192.179.24.134"
+        "142.250.177.76",
+        "142.250.177.236",
+        "142.250.189.108",
+        "142.250.189.140",
+        "142.250.217.108",
+        "142.251.32.12",
+        "142.251.34.236",
+        "142.251.41.76",
+        "142.251.41.140",
+        "142.251.210.108",
+        "142.251.210.204",
+        "142.251.210.236",
+        "142.251.211.12",
+        "142.251.214.76"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7771,52 +7645,55 @@
         "1.1.1.1": {
           "canonical_name": "rtmps.youtube.com",
           "ipv4": [
-            "64.233.180.134",
-            "142.250.31.134",
-            "142.251.16.134",
-            "142.251.111.134",
-            "142.251.167.134",
-            "142.251.179.134",
-            "172.253.63.134",
-            "172.253.115.134",
-            "172.253.122.134",
-            "173.194.45.134",
-            "192.178.155.134",
-            "192.179.24.134"
+            "142.250.177.76",
+            "142.250.177.236",
+            "142.250.189.108",
+            "142.250.189.140",
+            "142.250.217.108",
+            "142.251.34.236",
+            "142.251.41.76",
+            "142.251.41.140",
+            "142.251.210.108",
+            "142.251.210.204",
+            "142.251.211.12",
+            "142.251.214.76"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "rtmps.youtube.com",
           "ipv4": [
-            "142.250.31.134",
-            "142.251.16.134",
-            "142.251.111.134",
-            "142.251.163.134",
-            "142.251.167.134",
-            "142.251.179.134",
-            "172.253.63.134",
-            "172.253.115.134",
-            "172.253.122.134",
-            "192.178.155.134",
-            "192.179.18.134"
+            "142.250.177.76",
+            "142.250.177.236",
+            "142.250.189.108",
+            "142.250.217.108",
+            "142.251.32.12",
+            "142.251.34.236",
+            "142.251.41.140",
+            "142.251.210.108",
+            "142.251.210.204",
+            "142.251.210.236",
+            "142.251.211.12",
+            "142.251.214.76"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "rtmps.youtube.com",
           "ipv4": [
-            "64.233.180.134",
-            "142.251.163.134",
-            "142.251.167.134",
-            "142.251.179.134",
-            "172.253.62.134",
-            "172.253.63.134",
-            "172.253.115.134",
-            "172.253.122.134",
-            "172.253.139.134",
-            "192.178.155.134",
-            "192.179.18.134"
+            "142.250.177.76",
+            "142.250.177.236",
+            "142.250.189.108",
+            "142.250.189.140",
+            "142.250.217.108",
+            "142.251.32.12",
+            "142.251.34.236",
+            "142.251.41.76",
+            "142.251.41.140",
+            "142.251.210.108",
+            "142.251.210.204",
+            "142.251.210.236",
+            "142.251.214.76"
           ],
           "status": "OK"
         }
@@ -7844,10 +7721,10 @@
         "142.251.156.6",
         "142.251.157.6"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7917,29 +7794,14 @@
       "first_seen": "2026-08-30T01:13:28Z",
       "hostname": "suggestqueries-clients6.youtube.com",
       "ipv4": [
-        "172.253.62.100",
-        "172.253.62.101",
-        "172.253.62.102",
-        "172.253.62.113",
-        "172.253.62.138",
-        "172.253.62.139",
-        "172.253.63.100",
-        "172.253.63.101",
-        "172.253.63.102",
-        "172.253.63.113",
-        "172.253.63.138",
-        "172.253.63.139",
-        "192.178.155.100",
-        "192.178.155.101",
-        "192.178.155.102",
-        "192.178.155.113",
-        "192.178.155.138",
-        "192.178.155.139"
+        "142.250.177.78",
+        "142.251.34.238",
+        "142.251.210.110"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7947,36 +7809,21 @@
         "1.1.1.1": {
           "canonical_name": "suggestqueries-clients6.youtube.com",
           "ipv4": [
-            "192.178.155.100",
-            "192.178.155.101",
-            "192.178.155.102",
-            "192.178.155.113",
-            "192.178.155.138",
-            "192.178.155.139"
+            "142.251.34.238"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "suggestqueries-clients6.youtube.com",
           "ipv4": [
-            "172.253.63.100",
-            "172.253.63.101",
-            "172.253.63.102",
-            "172.253.63.113",
-            "172.253.63.138",
-            "172.253.63.139"
+            "142.251.210.110"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "suggestqueries-clients6.youtube.com",
           "ipv4": [
-            "172.253.62.100",
-            "172.253.62.101",
-            "172.253.62.102",
-            "172.253.62.113",
-            "172.253.62.138",
-            "172.253.62.139"
+            "142.250.177.78"
           ],
           "status": "OK"
         }
@@ -8003,17 +7850,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "upload.youtube.com",
       "ipv4": [
-        "142.251.179.116",
-        "142.251.179.117",
-        "172.253.63.116",
-        "172.253.63.117",
-        "172.253.122.116",
-        "172.253.122.117"
+        "142.251.34.239",
+        "142.251.41.79",
+        "142.251.214.79"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8021,24 +7865,21 @@
         "1.1.1.1": {
           "canonical_name": "yt-video-upload.l.google.com",
           "ipv4": [
-            "172.253.122.116",
-            "172.253.122.117"
+            "142.251.34.239"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "yt-video-upload.l.google.com",
           "ipv4": [
-            "142.251.179.116",
-            "142.251.179.117"
+            "142.251.41.79"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "yt-video-upload.l.google.com",
           "ipv4": [
-            "172.253.63.116",
-            "172.253.63.117"
+            "142.251.214.79"
           ],
           "status": "OK"
         }
@@ -8051,18 +7892,18 @@
     },
     "uploads.stage.gdata.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 47,
+      "consecutive_negative_checks": 48,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "uploads.stage.gdata.youtube.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 47,
+      "negative_observations": 48,
       "negative_since": "2026-11-05T19:52:50Z",
       "quarantined_at": "2026-11-12T23:31:36Z",
       "resolver_results": {
@@ -8087,18 +7928,18 @@
     },
     "usercontent.youtube.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 47,
+      "consecutive_negative_checks": 48,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "usercontent.youtube.com",
       "ipv4": [],
-      "last_check": "2026-11-26T21:25:38Z",
-      "last_failure": "2026-11-26T21:25:38Z",
-      "last_negative": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
+      "last_failure": "2026-11-27T08:15:57Z",
+      "last_negative": "2026-11-27T08:15:57Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 47,
+      "negative_observations": 48,
       "negative_since": "2026-11-05T19:52:50Z",
       "quarantined_at": "2026-11-12T23:31:36Z",
       "resolver_results": {
@@ -8129,29 +7970,13 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "www.creatoracademy.youtube.com",
       "ipv4": [
-        "142.250.31.100",
-        "142.250.31.101",
-        "142.250.31.102",
-        "142.250.31.113",
-        "142.250.31.138",
-        "142.250.31.139",
-        "142.251.179.100",
-        "142.251.179.101",
-        "142.251.179.102",
-        "142.251.179.113",
-        "142.251.179.138",
-        "142.251.179.139",
-        "172.253.62.100",
-        "172.253.62.101",
-        "172.253.62.102",
-        "172.253.62.113",
-        "172.253.62.138",
-        "172.253.62.139"
+        "142.250.177.238",
+        "142.250.217.110"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8159,36 +7984,21 @@
         "1.1.1.1": {
           "canonical_name": "www.creatoracademy.youtube.com",
           "ipv4": [
-            "142.250.31.100",
-            "142.250.31.101",
-            "142.250.31.102",
-            "142.250.31.113",
-            "142.250.31.138",
-            "142.250.31.139"
+            "142.250.217.110"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www.creatoracademy.youtube.com",
           "ipv4": [
-            "142.251.179.100",
-            "142.251.179.101",
-            "142.251.179.102",
-            "142.251.179.113",
-            "142.251.179.138",
-            "142.251.179.139"
+            "142.250.217.110"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "www.creatoracademy.youtube.com",
           "ipv4": [
-            "172.253.62.100",
-            "172.253.62.101",
-            "172.253.62.102",
-            "172.253.62.113",
-            "172.253.62.138",
-            "172.253.62.139"
+            "142.250.177.238"
           ],
           "status": "OK"
         }
@@ -8207,23 +8017,14 @@
       "first_seen": "2026-08-21T08:21:34Z",
       "hostname": "www.nflst.youtube.com",
       "ipv4": [
-        "172.253.62.100",
-        "172.253.62.101",
-        "172.253.62.102",
-        "172.253.62.113",
-        "172.253.62.138",
-        "172.253.62.139",
-        "172.253.115.100",
-        "172.253.115.101",
-        "172.253.115.102",
-        "172.253.115.113",
-        "172.253.115.138",
-        "172.253.115.139"
+        "142.250.177.238",
+        "142.250.217.110",
+        "142.251.211.14"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8231,36 +8032,21 @@
         "1.1.1.1": {
           "canonical_name": "www.nflst.youtube.com",
           "ipv4": [
-            "172.253.62.100",
-            "172.253.62.101",
-            "172.253.62.102",
-            "172.253.62.113",
-            "172.253.62.138",
-            "172.253.62.139"
+            "142.251.211.14"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "www.nflst.youtube.com",
           "ipv4": [
-            "172.253.115.100",
-            "172.253.115.101",
-            "172.253.115.102",
-            "172.253.115.113",
-            "172.253.115.138",
-            "172.253.115.139"
+            "142.250.217.110"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "www.nflst.youtube.com",
           "ipv4": [
-            "172.253.115.100",
-            "172.253.115.101",
-            "172.253.115.102",
-            "172.253.115.113",
-            "172.253.115.138",
-            "172.253.115.139"
+            "142.250.177.238"
           ],
           "status": "OK"
         }
@@ -8279,42 +8065,25 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "www.youtube-nocookie.com",
       "ipv4": [
-        "142.251.16.93",
-        "142.251.16.136",
-        "142.251.16.190",
-        "142.251.111.93",
-        "142.251.111.190",
-        "142.251.163.91",
-        "142.251.163.93",
-        "142.251.163.136",
-        "142.251.163.190",
-        "142.251.167.91",
-        "142.251.167.93",
-        "142.251.167.136",
-        "142.251.167.190",
-        "142.251.179.91",
-        "142.251.179.93",
-        "142.251.179.136",
-        "142.251.179.190",
-        "172.253.62.91",
-        "172.253.62.93",
-        "172.253.62.136",
-        "172.253.62.190",
-        "172.253.115.91",
-        "172.253.115.93",
-        "172.253.115.136",
-        "172.253.115.190",
-        "172.253.139.190",
-        "173.194.45.91",
-        "173.194.45.136",
-        "192.178.155.91",
-        "192.178.155.136",
-        "192.178.155.190"
+        "142.250.177.78",
+        "142.250.177.238",
+        "142.250.189.110",
+        "142.250.189.142",
+        "142.250.217.110",
+        "142.251.32.14",
+        "142.251.34.238",
+        "142.251.41.78",
+        "142.251.41.142",
+        "142.251.210.110",
+        "142.251.210.206",
+        "142.251.210.238",
+        "142.251.211.14",
+        "142.251.214.78"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8322,66 +8091,53 @@
         "1.1.1.1": {
           "canonical_name": "youtube-ui.l.google.com",
           "ipv4": [
-            "142.251.16.93",
-            "142.251.16.136",
-            "142.251.16.190",
-            "142.251.111.93",
-            "142.251.111.190",
-            "142.251.163.91",
-            "142.251.163.93",
-            "142.251.163.136",
-            "142.251.163.190",
-            "142.251.167.136",
-            "172.253.139.190",
-            "173.194.45.91",
-            "173.194.45.136",
-            "192.178.155.91",
-            "192.178.155.136",
-            "192.178.155.190"
+            "142.250.177.78",
+            "142.250.177.238",
+            "142.250.189.110",
+            "142.250.189.142",
+            "142.250.217.110",
+            "142.251.32.14",
+            "142.251.34.238",
+            "142.251.41.78",
+            "142.251.41.142",
+            "142.251.210.110",
+            "142.251.210.206",
+            "142.251.210.238",
+            "142.251.211.14",
+            "142.251.214.78"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "youtube-ui.l.google.com",
           "ipv4": [
-            "142.251.163.91",
-            "142.251.163.93",
-            "142.251.163.136",
-            "142.251.163.190",
-            "142.251.167.91",
-            "142.251.167.93",
-            "142.251.167.136",
-            "142.251.167.190",
-            "142.251.179.91",
-            "142.251.179.93",
-            "142.251.179.190",
-            "172.253.62.91",
-            "172.253.62.93",
-            "172.253.62.136",
-            "172.253.62.190",
-            "172.253.139.190"
+            "142.250.177.238",
+            "142.250.189.110",
+            "142.250.189.142",
+            "142.250.217.110",
+            "142.251.34.238",
+            "142.251.41.78",
+            "142.251.210.110",
+            "142.251.210.206",
+            "142.251.210.238",
+            "142.251.211.14",
+            "142.251.214.78"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "youtube-ui.l.google.com",
           "ipv4": [
-            "142.251.163.91",
-            "142.251.163.93",
-            "142.251.163.136",
-            "142.251.167.91",
-            "142.251.179.91",
-            "142.251.179.93",
-            "142.251.179.136",
-            "142.251.179.190",
-            "172.253.62.91",
-            "172.253.62.93",
-            "172.253.62.136",
-            "172.253.62.190",
-            "172.253.115.91",
-            "172.253.115.93",
-            "172.253.115.136",
-            "172.253.115.190"
+            "142.250.177.78",
+            "142.250.177.238",
+            "142.250.189.110",
+            "142.250.217.110",
+            "142.251.32.14",
+            "142.251.34.238",
+            "142.251.41.142",
+            "142.251.210.110",
+            "142.251.210.238",
+            "142.251.214.78"
           ],
           "status": "OK"
         }
@@ -8409,10 +8165,10 @@
         "142.251.156.4",
         "142.251.157.4"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8474,19 +8230,12 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "youtu.be",
       "ipv4": [
-        "172.253.122.91",
-        "172.253.122.93",
-        "172.253.122.136",
-        "172.253.122.190",
-        "192.178.155.91",
-        "192.178.155.93",
-        "192.178.155.136",
-        "192.178.155.190"
+        "142.250.177.238"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8494,30 +8243,21 @@
         "1.1.1.1": {
           "canonical_name": "youtu.be",
           "ipv4": [
-            "172.253.122.91",
-            "172.253.122.93",
-            "172.253.122.136",
-            "172.253.122.190"
+            "142.250.177.238"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "youtu.be",
           "ipv4": [
-            "192.178.155.91",
-            "192.178.155.93",
-            "192.178.155.136",
-            "192.178.155.190"
+            "142.250.177.238"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "youtu.be",
           "ipv4": [
-            "192.178.155.91",
-            "192.178.155.93",
-            "192.178.155.136",
-            "192.178.155.190"
+            "142.250.177.238"
           ],
           "status": "OK"
         }
@@ -8537,23 +8277,14 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "youtube.com",
       "ipv4": [
-        "142.251.163.91",
-        "142.251.163.93",
-        "142.251.163.136",
-        "142.251.163.190",
-        "172.253.62.91",
-        "172.253.62.93",
-        "172.253.62.136",
-        "172.253.62.190",
-        "192.178.155.91",
-        "192.178.155.93",
-        "192.178.155.136",
-        "192.178.155.190"
+        "142.250.189.142",
+        "142.251.211.14",
+        "142.251.214.78"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8561,30 +8292,21 @@
         "1.1.1.1": {
           "canonical_name": "youtube.com",
           "ipv4": [
-            "192.178.155.91",
-            "192.178.155.93",
-            "192.178.155.136",
-            "192.178.155.190"
+            "142.251.214.78"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "youtube.com",
           "ipv4": [
-            "172.253.62.91",
-            "172.253.62.93",
-            "172.253.62.136",
-            "172.253.62.190"
+            "142.251.211.14"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "youtube.com",
           "ipv4": [
-            "142.251.163.91",
-            "142.251.163.93",
-            "142.251.163.136",
-            "142.251.163.190"
+            "142.250.189.142"
           ],
           "status": "OK"
         }
@@ -8613,10 +8335,10 @@
         "172.217.118.4",
         "172.217.119.4"
       ],
-      "last_check": "2026-11-26T21:25:38Z",
+      "last_check": "2026-11-27T08:15:57Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-11-26T21:25:38Z",
+      "last_success": "2026-11-27T08:15:57Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -8671,6 +8393,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-11-26T21:25:38Z",
+  "updated_at": "2026-11-27T08:15:57Z",
   "version": 2
 }
